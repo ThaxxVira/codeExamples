@@ -1,2 +1,2 @@
 # codeExamples
-Code examples for employer review.  Code is frequently added
+Code examples for employer review.  Code is added as needed to this repository.
