@@ -2,7 +2,8 @@
 // Written by Matthew Little, 29 August 2016
 // --------------
 // --------------
-// This is a simple "choose your own adventure" style story game
+// This is a simple "choose your own adventure" style story game 
+// Goal of project: review the use of basic JavaScript commands
 // Asks if user wants to play a game
 confirm("Do you want to play a game?")
 // Asks user for their age
