@@ -1,4 +1,4 @@
-// Practice project from Codecademy
+// Practice project from Codecademy.com
 // Written by Matthew Little, 29 August 2016
 // --------------
 // --------------
