@@ -2,7 +2,7 @@
 // Written by Matthew Little, 29 August 2016
 // --------------
 // --------------
-// This is a simple "Rock, Paper, Scissors game 
+// This is a simple "Rock, Paper, Scissors" game 
 // Goal of project: review the use of functions
 // Prompts user to choose rock, paper, or scissors
 var userChoice = prompt("Do you choose rock, paper, or scissors?");
