@@ -3,7 +3,7 @@
 // --------------
 // --------------
 // This is a simple script to search a string for a name
-// Goal of project: review the use of for loops
+// Goals of project: review the use of for loops, fine-tune code, debugging
 /*jshint multistr:true */
 // initializes variables:  text, muName, hits
 var text = "What are you doing tonight Matthew?  I am going to the \
