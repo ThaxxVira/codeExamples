@@ -4,7 +4,7 @@
 %-----------------------------------------------------------------------------------------
 %  Program Description:
 %
-%   This program plots presure as a function of altitude for:
+%   This program plots pressure as a function of altitude for:
 %   (a) The isothermal atmosphere (T = 273 K, surface temp = 300 K, surface pressure = 1000hPa)
 %   (b) A dry adiabatic atmosphere (using same values as (a))
 %   (c) The 1976 US Standard Atmosphere
@@ -55,7 +55,7 @@ T3(z2_c) = TS_c;
 for counter2 = 12:20
     p3(counter2 + 1) = p3(counter2)*(exp((-g_c*1000)/(R*T3(counter2 + 1))));
 end
-% For stratopshere for 20gpkm to 30gpkm
+% For stratosphere for 20gpkm to 30gpkm
 for counter3 = 21:30
     T3(counter3 + 1) = T3(counter3) - Gam2_c;
     p3(counter3 + 1) = p3(counter3)*(exp((-g_c*1000)/(R*T3(counter3 + 1))));
