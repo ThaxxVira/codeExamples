@@ -13,4 +13,4 @@ I strive for excellence in all I do and am continually educating myself.  Eviden
 
 Admittedly, I do not have the best memory (an effect of a disability I have) when it comes to details of most languages, but within a couple days to a week of review, I am nearly back to where I had left off.  Therefore, I do not prioritize committing things to memory.  Rather, I first focus on the bigger picture of what needs to be done, break apart the problem into manageable chunks, and then find the right tools to complete each task.  If I do not know a particular tool or area of knowledge, I learn it.
 
-I am currently looking for new opportunities, and am open to relocating nationwide for positions related to meteorology, programming, and data analysis.
+I am currently looking for new opportunities related to meteorology, scientific programming, and data analysis, and am open to relocating nationwide.
