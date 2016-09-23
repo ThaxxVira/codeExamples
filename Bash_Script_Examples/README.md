@@ -1,6 +1,6 @@
 # UNIX Bash Script - Original Code
 
-This directory will contain original code (unless otherwise specified) written in Fortran.
+This directory will contain original code (unless otherwise specified) written in UNIX Bash script.
 
 Files will be added as existing code is reviewed and confirmed to operate as intended.
 
