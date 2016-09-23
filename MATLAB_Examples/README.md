@@ -1,4 +1,4 @@
-# IDL Examples
+# MATLAB Original Code
 
 This directory contains original code (unless otherwise specified) writtin in MATLAB.
 
