@@ -1,6 +1,6 @@
 # Codecademy - Completed Tasks
 
-This directory will contain original code (unless otherwise specified) written in various languages utilizing the instruction from Codecademy (www.codecademy.com).
+This directory contains original code (unless otherwise specified) written in various languages utilizing the instruction from Codecademy (www.codecademy.com).
 
 The completed tasks at the end of the lessons are presented within these files.
 
