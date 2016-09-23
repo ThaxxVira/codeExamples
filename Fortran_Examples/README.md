@@ -1,6 +1,6 @@
 # Fortran Examples
 
-This directory will contain original code (unless otherwise specified) writtin in Fortran.
+This directory will contain original code (unless otherwise specified) written in Fortran.
 
 Files will be added as code is reviewed and confirmed to operate as intended.
 
