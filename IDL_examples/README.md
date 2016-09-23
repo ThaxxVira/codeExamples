@@ -1,6 +1,6 @@
 # IDL Original Code
 
-This directory will contain original code (unless otherwise specified) writtin in IDL.
+This directory will contain original code (unless otherwise specified) written in IDL.
 
 Files will be added as code is reviewed and confirmed to operate as intended.
 
