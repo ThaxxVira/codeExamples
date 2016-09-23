@@ -1,0 +1,1731 @@
+*Alabama* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+1 Sterling
+01/10/2008 	16:11 PM 	Tornado 	F3 	0 	0 	435K 	0K
+2 Molloy
+01/10/2008 	14:20 PM 	Tornado 	F3 	0 	0 	105K 	0K
+3 Gordo
+01/10/2008 	15:43 PM 	Tornado 	F1 	0 	0 	50K 	0K
+4 Blue Spgs
+01/11/2008 	02:04 AM 	Tornado 	F1 	0 	0 	70K 	5K
+5 Marble Vly
+02/06/2008 	06:25 AM 	Tornado 	F2 	0 	0 	115K 	0K
+6 New Lexington
+02/06/2008 	02:58 AM 	Tornado 	F1 	0 	0 	25K 	0K
+7 Leola
+02/06/2008 	03:02 AM 	Tornado 	F4 	4 	23 	0K 	0K
+8 Pisgah
+02/06/2008 	05:17 AM 	Tornado 	F4 	1 	12 	0K 	0K
+9 Newtonville
+02/06/2008 	02:51 AM 	Tornado 	F2 	0 	0 	100K 	0K
+10 Pumpkin Center
+02/06/2008 	03:20 AM 	Tornado 	F2 	0 	0 	0K 	0K
+11 Beaverton
+02/06/2008 	02:04 AM 	Tornado 	F1 	0 	0 	50K 	0K
+12 Carona
+02/06/2008 	03:12 AM 	Tornado 	F2 	0 	4 	200K 	0K
+13 Guntersville Muni Ar
+02/06/2008 	04:45 AM 	Tornado 	F1 	0 	0 	0K 	0K
+14 Beck
+02/17/2008 	13:16 PM 	Tornado 	F1 	0 	0 	250K 	0K
+15 Jack
+02/17/2008 	14:17 PM 	Tornado 	F1 	0 	0 	25K 	0K
+16 Parker Spgs
+02/17/2008 	13:04 PM 	Tornado 	F2 	0 	0 	700K 	0K
+17 Blue Spgs
+02/17/2008 	00:00 AM 	Tornado 	F1 	0 	0 	75K 	0K
+18 Socapatoy
+02/17/2008 	13:42 PM 	Tornado 	F1 	0 	0 	100K 	0K
+19 Elamville
+02/17/2008 	16:17 PM 	Tornado 	F1 	0 	0 	35K 	0K
+20 Prattville Arpt
+02/17/2008 	14:58 PM 	Tornado 	F3 	0 	50 	10.0M 	0K
+21 Millbrook
+02/17/2008 	15:06 PM 	Tornado 	F1 	0 	0 	100K 	0K
+22 Collirene
+02/17/2008 	14:24 PM 	Tornado 	F2 	0 	10 	215K 	0K
+23 Glenville
+02/17/2008 	15:40 PM 	Tornado 	F2 	0 	4 	120K 	0K
+24 Potter
+02/17/2008 	12:26 PM 	Tornado 	F2 	0 	0 	350K 	0K
+25 Baltic
+02/17/2008 	14:23 PM 	Tornado 	F1 	0 	0 	60K 	0K
+26 Corinth
+02/17/2008 	14:22 PM 	Tornado 	F1 	0 	0 	100K 	0K
+27 Falakto
+02/17/2008 	13:05 PM 	Tornado 	F1 	0 	0 	150K 	0K
+28 Leeds
+02/26/2008 	03:42 AM 	Tornado 	F1 	1 	0 	1.0M 	0K
+29 Simmsville
+02/26/2008 	03:50 AM 	Tornado 	F1 	0 	0 	50K 	0K
+30 Easonville
+02/26/2008 	04:00 AM 	Tornado 	F1 	0 	0 	250K 	0K
+31 Mattawana
+03/15/2008 	08:47 AM 	Tornado 	F2 	0 	0 	960K 	0K
+32 Gnatville
+03/15/2008 	09:50 AM 	Tornado 	F2 	0 	0 	75K 	0K
+33 Hobgood Siding
+04/04/2008 	07:03 AM 	Tornado 	F1 	0 	0 	75K 	0K
+34 Central Hgts
+05/08/2008 	10:57 AM 	Tornado 	F1 	0 	2 	300K 	0K
+35 Midway
+05/08/2008 	11:39 AM 	Tornado 	F2 	0 	0 	300K 	0K
+36 Lemon Hill
+05/08/2008 	11:45 AM 	Tornado 	F2 	0 	0 	250K 	0K
+37 Thortontown
+05/08/2008 	11:51 AM 	Tornado 	F1 	0 	0 	5K 	0K
+38 Bazemore
+05/08/2008 	12:06 PM 	Tornado 	F1 	0 	0 	25K 	0K
+39 Eldridge
+05/08/2008 	12:16 PM 	Tornado 	F1 	0 	0 	20K 	0K
+40 Marigold
+05/08/2008 	13:00 PM 	Tornado 	F1 	0 	0 	100K 	0K
+41 Wheat
+05/08/2008 	13:06 PM 	Tornado 	F1 	0 	0 	20K 	0K
+42 Trimble
+05/08/2008 	13:20 PM 	Tornado 	F1 	0 	0 	20K 	0K
+43 Triana
+05/08/2008 	13:37 PM 	Tornado 	F1 	0 	0 	10K 	0K
+44 St Bernard
+05/08/2008 	13:40 PM 	Tornado 	F1 	0 	0 	50K 	0K
+45 Gravelly Spgs
+05/10/2008 	22:00 PM 	Tornado 	F1 	0 	0 	100K 	0K
+46 Shottsville
+05/10/2008 	22:18 PM 	Tornado 	F1 	0 	0 	100K 	0K
+47 Powell
+05/10/2008 	22:59 PM 	Tornado 	F1 	0 	0 	5K 	0K
+48 Marigold
+05/10/2008 	23:27 PM 	Tornado 	F1 	0 	0 	20K 	0K
+49 Garden City
+05/10/2008 	23:37 PM 	Tornado 	F2 	0 	0 	150K 	0K
+50 Heflin
+05/11/2008 	01:36 AM 	Tornado 	F1 	0 	0 	1.8M 	0K
+51 Edwardsville
+05/11/2008 	01:47 AM 	Tornado 	F1 	0 	0 	50K 	0K
+52 Arguta
+08/25/2008 	07:20 AM 	Tornado 	F1 	0 	0 	30K 	0K
+53 Gordon
+08/25/2008 	18:26 PM 	Tornado 	F1 	0 	0 	75K 	0K
+54 St Clair Spgs
+08/25/2008 	09:56 AM 	Tornado 	F1 	0 	0 	20K 	0K
+55 Choccolocco
+08/25/2008 	11:19 AM 	Tornado 	F1 	0 	0 	150K 	0K
+56 Old Davisville
+08/25/2008 	11:11 AM 	Tornado 	F1 	0 	0 	10K 	0K
+57 Allgood
+08/25/2008 	10:25 AM 	Tornado 	F1 	0 	0 	10K 	0K
+58 Chulafinnee
+08/25/2008 	11:06 AM 	Tornado 	F2 	0 	0 	100K 	0K
+59 Enterprise
+10/08/2008 	10:54 AM 	Tornado 	F1 	0 	0 	4.0M 	0K
+
+
+*Arkansas* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+60 Gentry
+01/07/2008 	23:09 PM 	Tornado 	F1 	0 	0 	0K 	0K
+61 Brymar
+01/08/2008 	14:20 PM 	Tornado 	F1 	0 	0 	100K 	0K
+62 Jerusalem
+01/08/2008 	08:41 AM 	Tornado 	F2 	0 	1 	1.8M 	0K
+63 Liberty Spgs
+01/08/2008 	08:53 AM 	Tornado 	F1 	0 	0 	100K 	0K
+64 Moreland
+01/08/2008 	08:26 AM 	Tornado 	F2 	1 	1 	3.5M 	0K
+65 Deckerville
+01/08/2008 	13:52 PM 	Tornado 	F1 	0 	0 	50K 	0K
+66 El Paso
+02/05/2008 	19:08 PM 	Tornado 	F1 	0 	0 	40K 	0K
+67 Hamburg
+02/05/2008 	15:26 PM 	Tornado 	F1 	0 	0 	40K 	0K
+68 Holla Bend
+02/05/2008 	16:50 PM 	Tornado 	F1 	0 	0 	50K 	0K
+69 Hattieville
+02/05/2008 	17:08 PM 	Tornado 	F3 	2 	5 	14.5M 	0K
+70 Beverage Town
+02/05/2008 	17:23 PM 	Tornado 	F4 	3 	77 	22.8M 	0K
+71 Ware's Chapel
+02/05/2008 	17:02 PM 	Tornado 	F1 	0 	1 	1.8M 	0K
+72 Cotter
+02/05/2008 	17:11 PM 	Tornado 	F2 	1 	35 	15.8M 	0K
+73 Funston
+02/05/2008 	19:05 PM 	Tornado 	F1 	0 	0 	100K 	0K
+74 Rushing
+02/05/2008 	17:51 PM 	Tornado 	F4 	1 	7 	29.0M 	0K
+75 Guion
+02/05/2008 	18:16 PM 	Tornado 	F3 	2 	20 	11.5M 	0K
+76 Horseshoe Bend
+02/05/2008 	18:41 PM 	Tornado 	F3 	0 	15 	30.0M 	0K
+77 Galla Rock
+02/05/2008 	16:54 PM 	Tornado 	F3 	5 	15 	11.5M 	0K
+78 Dalton
+02/05/2008 	19:20 PM 	Tornado 	F1 	0 	4 	200K 	0K
+79 New Edinburg
+03/14/2008 	02:42 AM 	Tornado 	F2 	0 	0 	1.0M 	0K
+80 Peter Pender
+03/18/2008 	10:55 AM 	Tornado 	F1 	0 	0 	75K 	0K
+81 Toneyville
+04/03/2008 	21:23 PM 	Tornado 	F1 	0 	0 	25K 	0K
+82 Levy
+04/03/2008 	21:06 PM 	Tornado 	F2 	0 	0 	0K 	0K
+83 Douglasville
+04/03/2008 	20:47 PM 	Tornado 	F1 	0 	1 	50.0M 	0K
+84 Bauxite Jct
+04/03/2008 	20:23 PM 	Tornado 	F2 	0 	1 	5.0M 	0K
+85 Lambert
+04/03/2008 	21:28 PM 	Tornado 	F1 	0 	0 	15K 	0K
+86 Mountain Spgs
+04/03/2008 	21:42 PM 	Tornado 	F1 	0 	0 	10K 	0K
+87 Slocomb
+04/03/2008 	20:02 PM 	Tornado 	F1 	0 	1 	5.0M 	0K
+88 Diamondhead
+04/03/2008 	21:50 PM 	Tornado 	F1 	0 	0 	100K 	0K
+89 Diamondhead
+04/03/2008 	21:53 PM 	Tornado 	F1 	0 	0 	100K 	0K
+90 Cabot
+04/03/2008 	21:28 PM 	Tornado 	F2 	0 	0 	2.0M 	0K
+91 Stony Pt
+04/03/2008 	21:44 PM 	Tornado 	F1 	0 	0 	25K 	0K
+92 Floyd
+04/03/2008 	22:57 PM 	Tornado 	F1 	0 	0 	25K 	0K
+93 Gravel Ridge
+04/03/2008 	21:14 PM 	Tornado 	F1 	0 	0 	30K 	0K
+94 New Summit
+04/03/2008 	20:34 PM 	Tornado 	F2 	0 	0 	10.0M 	0K
+95 Dallas
+04/09/2008 	20:42 PM 	Tornado 	F1 	0 	0 	0K 	0K
+96 Wesley
+04/10/2008 	05:02 AM 	Tornado 	F1 	0 	0 	10K 	0K
+97 Alabam
+04/10/2008 	05:20 AM 	Tornado 	F1 	0 	0 	50K 	0K
+98 Metalton
+04/10/2008 	05:28 AM 	Tornado 	F1 	0 	0 	50K 	0K
+99 Evansville
+04/10/2008 	04:28 AM 	Tornado 	F2 	0 	0 	75K 	0K
+100 Black Oak
+04/10/2008 	04:50 AM 	Tornado 	F2 	0 	0 	125K 	0K
+101 Sitka
+04/10/2008 	03:29 AM 	Tornado 	F1 	0 	0 	10K 	0K
+102 Prattsville
+04/10/2008 	09:56 AM 	Tornado 	F1 	0 	0 	20K 	0K
+103 East End
+04/10/2008 	10:13 AM 	Tornado 	F1 	0 	0 	10K 	0K
+104 Birdtown
+05/02/2008 	07:15 AM 	Tornado 	F2 	2 	6 	5.0M 	0K
+105 Damascus
+05/02/2008 	07:26 AM 	Tornado 	F3 	3 	6 	10.0M 	0K
+106 Damascus
+05/02/2008 	07:28 AM 	Tornado 	F1 	0 	0 	0K 	0K
+107 Crossroads
+05/02/2008 	07:48 AM 	Tornado 	F2 	0 	12 	32.0M 	0K
+108 Umpire
+05/02/2008 	08:03 AM 	Tornado 	F1 	0 	0 	100K 	0K
+109 Billstown
+05/02/2008 	09:23 AM 	Tornado 	F1 	0 	0 	100K 	0K
+110 Belfast
+05/02/2008 	10:15 AM 	Tornado 	F1 	0 	0 	1.5M 	0K
+111 Leola
+05/02/2008 	10:25 AM 	Tornado 	F2 	0 	0 	3.5M 	0K
+112 Lakeside
+05/02/2008 	10:31 AM 	Tornado 	F2 	0 	1 	1.0M 	0K
+113 Woodson
+05/02/2008 	10:38 AM 	Tornado 	F2 	1 	0 	3.5M 	0K
+114 Cobbs
+05/02/2008 	10:55 AM 	Tornado 	F2 	0 	2 	3.0M 	0K
+115 Carlisle
+05/02/2008 	11:56 AM 	Tornado 	F1 	0 	0 	1.0M 	0K
+116 Carlisle Muni Arpt
+05/02/2008 	12:02 PM 	Tornado 	F1 	0 	0 	0K 	0K
+117 Screeton
+05/02/2008 	12:03 PM 	Tornado 	F1 	0 	0 	0K 	0K
+118 Center Pt
+05/02/2008 	12:05 PM 	Tornado 	F1 	0 	0 	1K 	0K
+119 Three Way
+05/02/2008 	13:54 PM 	Tornado 	F2 	0 	1 	500K 	0K
+120 Earle Mcneely Arpt
+05/02/2008 	14:20 PM 	Tornado 	F3 	0 	4 	2.0M 	0K
+121 Ashton
+05/02/2008 	17:52 PM 	Tornado 	F2 	0 	0 	1.5M 	200K
+122 Bentonville
+05/10/2008 	17:35 PM 	Tornado 	F1 	0 	0 	100K 	0K
+123 Center Hill
+05/10/2008 	18:14 PM 	Tornado 	F1 	0 	0 	25K 	0K
+124 Geridge
+05/10/2008 	18:47 PM 	Tornado 	F1 	0 	0 	0K 	0K
+125 Fairmont
+05/10/2008 	18:51 PM 	Tornado 	F1 	0 	0 	0K 	0K
+126 Avon
+05/10/2008 	18:55 PM 	Tornado 	F1 	0 	0 	250K 	0K
+127 Tipp
+05/10/2008 	18:57 PM 	Tornado 	F1 	0 	0 	60K 	0K
+128 Fuess
+05/10/2008 	18:57 PM 	Tornado 	F3 	0 	9 	75.0M 	0K
+129 Fairoaks
+05/10/2008 	19:07 PM 	Tornado 	F1 	0 	0 	30K 	0K
+130 Deep Elm
+05/10/2008 	19:26 PM 	Tornado 	F1 	0 	0 	25K 	0K
+131 Rosston
+05/10/2008 	20:32 PM 	Tornado 	F1 	0 	0 	0K 	0K
+132 Cabot
+09/13/2008 	16:57 PM 	Tornado 	F1 	0 	0 	300K 	0K
+133 Glen Rose
+09/13/2008 	14:13 PM 	Tornado 	F1 	0 	0 	30K 	0K
+134 Traskwood
+09/13/2008 	14:18 PM 	Tornado 	F1 	0 	0 	70K 	0K
+135 Meaford
+09/13/2008 	14:16 PM 	Tornado 	F1 	0 	0 	20K 	0K
+136 Houston
+09/13/2008 	15:20 PM 	Tornado 	F1 	0 	0 	5K 	0K
+137 Whittington
+09/13/2008 	14:25 PM 	Tornado 	F1 	0 	0 	5K 	0K
+138 Aplin
+09/13/2008 	15:03 PM 	Tornado 	F1 	0 	0 	20K 	0K
+139 Ink
+10/06/2008 	13:46 PM 	Tornado 	F1 	0 	0 	75K 	0K
+
+
+*California* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+140 March Afb
+05/22/2008 	15:42 PM 	Tornado 	F2 	0 	1 	350K 	0K
+141 Lcrne Vly Soggy Dry
+08/04/2008 	13:00 PM 	Tornado 	F1 	0 	0 	10K 	0K
+
+
+*Colorado* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+142 Platteville Arpt
+05/22/2008 	10:26 AM 	Tornado 	F3 	1 	78 	147.0M 	0K
+143 Timnath
+05/22/2008 	11:08 AM 	Tornado 	F1 	0 	0 	0K 	0K
+144 Dacono
+05/22/2008 	11:30 AM 	Tornado 	F1 	0 	1 	0K 	0K
+145 Kaufman
+05/23/2008 	17:00 PM 	Tornado 	F1 	0 	0 	0K 	0K
+146 Ramah
+08/13/2008 	15:16 PM 	Tornado 	F1 	0 	0 	10K 	0K
+147 Mosca
+08/16/2008 	14:24 PM 	Tornado 	F1 	0 	0 	8K 	0K
+148 Woodland Park
+08/23/2008 	14:05 PM 	Tornado 	F1 	0 	0 	20K 	0K
+149 Lake George
+08/23/2008 	13:15 PM 	Tornado 	F1 	0 	0 	30K 	0K
+150 Westcreek
+08/23/2008 	14:02 PM 	Tornado 	F1 	0 	0 	2K 	0K
+
+
+*Florida* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+151 Molino Xrds
+02/17/2008 	11:59 AM 	Tornado 	F1 	0 	0 	750K 	0K
+152 Chumuckla
+02/17/2008 	12:14 PM 	Tornado 	F1 	0 	0 	200K 	0K
+153 Mt Pleasant
+02/18/2008 	01:08 AM 	Tornado 	F1 	0 	1 	200K 	0K
+154 Jack Lee Island
+03/07/2008 	08:36 AM 	Tornado 	F2 	0 	2 	500K 	0K
+155 Lake City
+03/07/2008 	09:45 AM 	Tornado 	F2 	1 	5 	4.0M 	0K
+156 Capitola
+03/07/2008 	07:25 AM 	Tornado 	F1 	0 	1 	750K 	0K
+157 Bayshore Manor
+06/08/2008 	15:55 PM 	Tornado 	F1 	0 	1 	100K 	0K
+158 Hialeah
+08/14/2008 	13:30 PM 	Tornado 	F1 	0 	0 	150K 	0K
+159 Wellington
+08/19/2008 	00:29 AM 	Tornado 	F2 	0 	0 	1.3M 	0K
+160 Craig Key
+09/10/2008 	02:42 AM 	Tornado 	F1 	0 	0 	120K 	0K
+161 Lloyd
+10/08/2008 	16:24 PM 	Tornado 	F1 	0 	0 	10K 	0K
+
+
+*Georgia* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+162 Roberta
+02/17/2008 	18:18 PM 	Tornado 	F1 	0 	8 	550K 	0K
+163 Lowell
+02/17/2008 	15:52 PM 	Tornado 	F1 	0 	0 	150K 	0K
+164 Capel
+02/18/2008 	02:00 AM 	Tornado 	F1 	0 	1 	150K 	0K
+165 Carrollton
+02/26/2008 	06:10 AM 	Tornado 	F1 	0 	1 	7.0M 	0K
+166 Bowdon
+02/26/2008 	05:55 AM 	Tornado 	F3 	0 	1 	8.0M 	0K
+167 Mt Pleasant
+03/07/2008 	10:20 AM 	Tornado 	F1 	0 	0 	1K 	10K
+168 Clarking
+03/07/2008 	10:20 AM 	Tornado 	F1 	0 	0 	0K 	0K
+169 Vista Grove
+03/14/2008 	20:48 PM 	Tornado 	F1 	0 	0 	50K 	0K
+170 Atlanta
+03/14/2008 	20:38 PM 	Tornado 	F2 	1 	30 	25.0M 	0K
+171 Springfield
+03/15/2008 	20:34 PM 	Tornado 	F2 	0 	5 	1.5M 	0K
+172 Rincon
+03/15/2008 	20:44 PM 	Tornado 	F2 	0 	0 	3.0M 	0K
+173 Elberton
+03/15/2008 	15:19 PM 	Tornado 	F2 	0 	0 	100K 	0K
+174 Wrens
+03/15/2008 	17:15 PM 	Tornado 	F2 	0 	0 	500K 	0K
+175 Shell Bluff
+03/15/2008 	18:05 PM 	Tornado 	F1 	0 	0 	100K 	0K
+176 Winfield
+03/15/2008 	16:53 PM 	Tornado 	F1 	0 	2 	140K 	0K
+177 Keysville
+03/15/2008 	17:27 PM 	Tornado 	F2 	0 	0 	0K 	0K
+178 Seney
+03/15/2008 	11:25 AM 	Tornado 	F3 	1 	1 	3.5M 	0K
+179 Wax
+03/15/2008 	11:28 AM 	Tornado 	F3 	1 	1 	1.0M 	0K
+180 Taylorsville
+03/15/2008 	11:32 AM 	Tornado 	F3 	0 	0 	3.0M 	0K
+181 Jonesville
+05/11/2008 	03:08 AM 	Tornado 	F2 	0 	0 	2.0M 	0K
+182 Louise
+05/11/2008 	03:08 AM 	Tornado 	F2 	0 	0 	80K 	0K
+183 Hogansville
+05/11/2008 	03:18 AM 	Tornado 	F2 	0 	0 	50K 	0K
+184 St Marks
+05/11/2008 	03:20 AM 	Tornado 	F2 	0 	0 	30K 	0K
+185 Carrollton
+05/11/2008 	03:25 AM 	Tornado 	F2 	0 	0 	7.0M 	0K
+186 Morrow
+05/11/2008 	04:17 AM 	Tornado 	F2 	0 	0 	7.5M 	0K
+187 Lizella
+05/11/2008 	04:50 AM 	Tornado 	F2 	0 	0 	5.0M 	0K
+188 Fitzpatrick
+05/11/2008 	05:15 AM 	Tornado 	F1 	0 	0 	4.0M 	0K
+189 Gordon
+05/11/2008 	05:19 AM 	Tornado 	F1 	0 	0 	50K 	0K
+190 Chappells Mill
+05/11/2008 	05:36 AM 	Tornado 	F2 	2 	2 	1.4M 	0K
+191 Tuckers Crossroad
+05/11/2008 	05:44 AM 	Tornado 	F1 	0 	0 	0.9M 	0K
+192 Spann
+05/11/2008 	05:48 AM 	Tornado 	F1 	0 	5 	15.0M 	0K
+193 Lowery
+05/11/2008 	05:58 AM 	Tornado 	F1 	0 	0 	0.9M 	0K
+194 Kite
+05/11/2008 	06:01 AM 	Tornado 	F2 	0 	3 	7.0M 	0K
+195 Blundale
+05/11/2008 	06:07 AM 	Tornado 	F2 	0 	0 	750K 	0K
+196 Soperton
+05/11/2008 	06:11 AM 	Tornado 	F3 	0 	0 	200K 	0K
+197 Kibbee
+05/11/2008 	06:16 AM 	Tornado 	F3 	0 	0 	25K 	0K
+198 Normantown
+05/11/2008 	06:20 AM 	Tornado 	F2 	0 	3 	500K 	0K
+199 Elton
+05/11/2008 	06:35 AM 	Tornado 	F1 	0 	0 	5K 	0K
+200 Cobbtown
+05/11/2008 	06:39 AM 	Tornado 	F3 	0 	2 	1.0M 	0K
+201 Denmark
+05/11/2008 	07:10 AM 	Tornado 	F1 	0 	0 	125K 	0K
+202 Darien Eden Fld
+05/11/2008 	08:52 AM 	Tornado 	F4 	0 	9 	12.5M 	0K
+203 Glynco Nas
+05/11/2008 	13:40 PM 	Tornado 	F1 	0 	0 	0K 	0K
+204 Lebanon
+05/20/2008 	17:35 PM 	Tornado 	F1 	0 	4 	46.0M 	0K
+205 Lindsey
+05/20/2008 	20:01 PM 	Tornado 	F1 	0 	0 	75K 	0K
+206 Sandfly
+06/19/2008 	14:37 PM 	Tornado 	F1 	0 	0 	3.1M 	0K
+207 Staunton
+08/23/2008 	15:50 PM 	Tornado 	F1 	0 	0 	25K 	0K
+208 Gnesville Cotton Mil
+08/26/2008 	11:25 AM 	Tornado 	F1 	0 	0 	550K 	0K
+209 Blackshear Place
+08/26/2008 	14:38 PM 	Tornado 	F1 	0 	0 	750K 	0K
+210 White Sulphur
+08/26/2008 	15:20 PM 	Tornado 	F1 	0 	0 	100K 	0K
+211 Arcade
+08/26/2008 	15:30 PM 	Tornado 	F1 	0 	3 	350K 	0K
+
+
+*Iowa* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+212 Truax
+04/10/2008 	16:43 PM 	Tornado 	F1 	0 	0 	100K 	0K
+213 Griffinsville
+04/10/2008 	16:10 PM 	Tornado 	F1 	0 	0 	75K 	0K
+214 Jerome
+04/10/2008 	15:57 PM 	Tornado 	F1 	0 	0 	75K 	0K
+215 Deep River
+04/10/2008 	17:21 PM 	Tornado 	F1 	0 	0 	100K 	0K
+216 Lebanon
+04/10/2008 	17:16 PM 	Tornado 	F2 	0 	0 	150K 	0K
+217 Utica
+04/10/2008 	17:25 PM 	Tornado 	F1 	0 	0 	30K 	0K
+218 Winfield
+04/25/2008 	14:08 PM 	Tornado 	F1 	0 	0 	10K 	0K
+219 West Liberty
+04/25/2008 	14:15 PM 	Tornado 	F2 	0 	0 	200K 	0K
+220 Rock Vly
+05/01/2008 	17:59 PM 	Tornado 	F2 	0 	0 	0.5M 	0K
+221 Inwood
+05/01/2008 	18:16 PM 	Tornado 	F1 	0 	0 	10K 	0K
+222 Fern
+05/25/2008 	15:48 PM 	Tornado 	F2 	0 	0 	300K 	2K
+223 Aplington
+05/25/2008 	15:50 PM 	Tornado 	F5 	9 	50 	75.0M 	75K
+224 Benson
+05/25/2008 	16:16 PM 	Tornado 	F2 	0 	20 	25.0M 	155K
+225 Fairbank
+05/25/2008 	17:05 PM 	Tornado 	F3 	0 	3 	1.0M 	0K
+226 Weldon
+05/25/2008 	17:25 PM 	Tornado 	F1 	0 	0 	0K 	0K
+227 Lamont
+05/25/2008 	17:40 PM 	Tornado 	F1 	0 	0 	50K 	0K
+228 Dundee
+05/25/2008 	17:50 PM 	Tornado 	F1 	0 	0 	100K 	0K
+229 Petersburg
+05/25/2008 	18:31 PM 	Tornado 	F1 	0 	0 	100K 	0K
+230 New Vienna
+05/25/2008 	18:40 PM 	Tornado 	F1 	0 	0 	250K 	0K
+231 Victor
+05/25/2008 	22:06 PM 	Tornado 	F1 	0 	0 	100K 	0K
+232 Moorhead
+05/29/2008 	19:00 PM 	Tornado 	F1 	0 	0 	0K 	0K
+233 Denison
+05/29/2008 	19:46 PM 	Tornado 	F1 	0 	0 	150K 	10K
+234 Templeton
+05/29/2008 	20:10 PM 	Tornado 	F1 	0 	0 	200K 	10K
+235 Somers
+05/29/2008 	20:23 PM 	Tornado 	F1 	0 	0 	50K 	0K
+236 Kennedy
+05/29/2008 	23:50 PM 	Tornado 	F1 	0 	0 	100K 	5K
+237 Murray
+05/30/2008 	03:13 AM 	Tornado 	F1 	0 	0 	50K 	0K
+238 Lacona
+05/30/2008 	03:51 AM 	Tornado 	F1 	0 	0 	30K 	5K
+239 Newbern
+05/30/2008 	03:54 AM 	Tornado 	F1 	0 	0 	50K 	5K
+240 Columbia
+05/30/2008 	04:07 AM 	Tornado 	F2 	0 	10 	750K 	25K
+241 Olivet
+05/30/2008 	04:21 AM 	Tornado 	F1 	0 	0 	75K 	10K
+242 Brooks
+06/04/2008 	19:24 PM 	Tornado 	F1 	0 	0 	15K 	5K
+243 Stringtown
+06/04/2008 	19:58 PM 	Tornado 	F1 	0 	0 	25K 	5K
+244 Creston Arpt
+06/04/2008 	20:37 PM 	Tornado 	F1 	0 	0 	50K 	5K
+245 Afton
+06/04/2008 	20:58 PM 	Tornado 	F1 	0 	0 	0K 	0K
+246 Pacific Jct
+06/04/2008 	17:04 PM 	Tornado 	F1 	0 	0 	0K 	0K
+247 Emerson
+06/04/2008 	17:50 PM 	Tornado 	F1 	0 	0 	0K 	0K
+248 Creston
+06/05/2008 	20:24 PM 	Tornado 	F1 	0 	0 	25K 	2K
+249 Swan
+06/05/2008 	23:25 PM 	Tornado 	F1 	0 	0 	30K 	0K
+250 Leslie
+06/05/2008 	22:49 PM 	Tornado 	F1 	0 	0 	0K 	0K
+251 Prairie City
+06/05/2008 	23:36 PM 	Tornado 	F1 	0 	0 	75K 	0K
+252 Reasnor
+06/05/2008 	23:45 PM 	Tornado 	F1 	0 	2 	250K 	5K
+253 Liberty Center
+06/05/2008 	23:10 PM 	Tornado 	F1 	0 	0 	150K 	10K
+254 Thompson
+06/07/2008 	14:41 PM 	Tornado 	F1 	0 	0 	250K 	10K
+255 Highland Center
+06/08/2008 	18:30 PM 	Tornado 	F1 	0 	0 	75K 	5K
+256 Pickering
+06/08/2008 	15:10 PM 	Tornado 	F1 	0 	0 	30K 	2K
+257 Calumet
+06/11/2008 	17:20 PM 	Tornado 	F1 	0 	0 	5K 	0K
+258 Royal
+06/11/2008 	17:40 PM 	Tornado 	F2 	0 	0 	300K 	0K
+259 Calumet
+06/11/2008 	17:06 PM 	Tornado 	F2 	0 	0 	200K 	0K
+260 River Sioux
+06/11/2008 	17:27 PM 	Tornado 	F2 	0 	0 	0K 	0K
+261 Blencoe
+06/11/2008 	17:36 PM 	Tornado 	F3 	4 	48 	0K 	0K
+262 Van Horne
+07/02/2008 	16:10 PM 	Tornado 	F1 	0 	0 	100K 	0K
+263 Templeton
+07/19/2008 	18:39 PM 	Tornado 	F1 	0 	0 	150K 	500K
+264 Farrar
+07/27/2008 	15:34 PM 	Tornado 	F1 	0 	0 	50K 	10K
+
+
+*Illinois* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+265 Mackinaw
+01/07/2008 	17:22 PM 	Tornado 	F1 	0 	0 	30K 	0K
+266 Poplar Grove
+01/07/2008 	15:30 PM 	Tornado 	F3 	0 	4 	2.0M 	0K
+267 Chemung
+01/07/2008 	15:39 PM 	Tornado 	F3 	0 	1 	2.0M 	0K
+268 Wolf Lake
+01/29/2008 	16:12 PM 	Tornado 	F1 	0 	0 	10K 	0K
+269 Sutter
+04/10/2008 	17:30 PM 	Tornado 	F1 	0 	0 	100K 	0K
+270 New Salem
+05/30/2008 	15:25 PM 	Tornado 	F1 	0 	0 	5K 	0K
+271 Waverly
+05/30/2008 	18:17 PM 	Tornado 	F1 	0 	0 	129K 	0K
+272 Lowder
+05/30/2008 	18:23 PM 	Tornado 	F1 	0 	0 	63K 	0K
+273 Flanagan
+06/04/2008 	18:45 PM 	Tornado 	F1 	0 	0 	40K 	0K
+274 Trilla
+06/06/2008 	15:20 PM 	Tornado 	F1 	0 	0 	275K 	0K
+275 Essex
+06/07/2008 	16:18 PM 	Tornado 	F1 	0 	0 	0K 	0K
+276 Andres
+06/07/2008 	16:55 PM 	Tornado 	F2 	0 	0 	500K 	0K
+277 Nevada
+06/07/2008 	15:31 PM 	Tornado 	F1 	0 	0 	50K 	0K
+278 Monee
+06/07/2008 	17:13 PM 	Tornado 	F2 	0 	6 	5.5M 	0K
+279 Wilton
+06/07/2008 	16:51 PM 	Tornado 	F2 	0 	0 	50K 	0K
+280 Park Forest
+06/07/2008 	17:32 PM 	Tornado 	F1 	0 	0 	1.0M 	0K
+281 Godley
+06/07/2008 	16:19 PM 	Tornado 	F2 	0 	0 	500K 	0K
+282 Park Forest South
+06/07/2008 	17:19 PM 	Tornado 	F2 	0 	0 	4.0M 	0K
+283 Irene
+06/12/2008 	23:30 PM 	Tornado 	F1 	0 	0 	25K 	0K
+284 Metcalf
+07/21/2008 	21:34 PM 	Tornado 	F1 	0 	0 	85K 	0K
+285 Plainfield Clow Arpt
+08/04/2008 	18:45 PM 	Tornado 	F1 	0 	0 	500K 	0K
+286 Cloverdale
+08/04/2008 	18:45 PM 	Tornado 	F1 	0 	0 	40K 	0K
+287 Bloomingdale
+08/04/2008 	18:47 PM 	Tornado 	F1 	0 	0 	250K 	0K
+
+
+*Indiana* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+288 Crawleyville
+01/29/2008 	17:10 PM 	Tornado 	F2 	0 	0 	50K 	0K
+289 Lexington
+01/29/2008 	20:10 PM 	Tornado 	F1 	0 	0 	70K 	0K
+290 Ind Eagle Creek Arpt
+01/29/2008 	19:20 PM 	Tornado 	F1 	0 	0 	100K 	0K
+291 Stewartsville
+01/29/2008 	17:07 PM 	Tornado 	F2 	2 	0 	200K 	0K
+292 Becks Mill
+01/29/2008 	19:40 PM 	Tornado 	F1 	0 	0 	60K 	50K
+293 Bloomfield
+02/05/2008 	21:15 PM 	Tornado 	F1 	0 	0 	1.3M 	0K
+294 Hartman
+05/30/2008 	17:15 PM 	Tornado 	F1 	0 	0 	100K 	0K
+295 Lawrence
+05/30/2008 	21:27 PM 	Tornado 	F2 	0 	18 	29.0M 	0K
+296 Mt Comfort
+05/30/2008 	21:32 PM 	Tornado 	F1 	0 	0 	250K 	0K
+297 Mc Cordsville
+05/30/2008 	21:35 PM 	Tornado 	F1 	0 	0 	500K 	0K
+298 Park
+06/03/2008 	10:10 AM 	Tornado 	F1 	0 	0 	50K 	0K
+299 Popcorn
+06/03/2008 	10:27 AM 	Tornado 	F1 	0 	1 	120K 	0K
+300 Springhill
+06/03/2008 	20:50 PM 	Tornado 	F1 	0 	0 	70K 	0K
+301 Peoga
+06/03/2008 	20:24 PM 	Tornado 	F2 	0 	0 	200K 	0K
+302 Princes Lakes
+06/03/2008 	20:30 PM 	Tornado 	F2 	0 	3 	23.0M 	0K
+303 Mt Auburn
+06/03/2008 	20:46 PM 	Tornado 	F1 	0 	1 	15K 	0K
+304 Moscow
+06/03/2008 	20:12 PM 	Tornado 	F3 	1 	8 	1.0M 	0K
+305 Griffith
+08/04/2008 	19:27 PM 	Tornado 	F2 	0 	0 	1.0M 	0K
+306 Kersey
+09/04/2008 	15:49 PM 	Tornado 	F1 	0 	0 	30K 	5K
+
+
+*Kansas* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+307 Beloit Arpt
+04/24/2008 	23:23 PM 	Tornado 	F2 	0 	0 	750K 	500K
+308 Jamestown
+04/24/2008 	23:45 PM 	Tornado 	F1 	0 	0 	0K 	0K
+309 Clinton
+05/02/2008 	00:04 AM 	Tornado 	F2 	0 	0 	260K 	0K
+310 Selden
+05/22/2008 	16:11 PM 	Tornado 	F1 	0 	0 	250K 	0K
+311 Leoville
+05/22/2008 	16:17 PM 	Tornado 	F1 	0 	0 	250K 	0K
+312 Oberlin
+05/22/2008 	16:48 PM 	Tornado 	F1 	0 	0 	1.0M 	0K
+313 Seguin
+05/22/2008 	16:55 PM 	Tornado 	F2 	0 	0 	750K 	0K
+314 Gove
+05/22/2008 	17:08 PM 	Tornado 	F1 	0 	0 	150K 	0K
+315 Dresden
+05/22/2008 	17:31 PM 	Tornado 	F1 	0 	0 	1.5M 	0K
+316 Utica
+05/22/2008 	19:00 PM 	Tornado 	F1 	0 	0 	0K 	0K
+317 Wakeeney
+05/22/2008 	19:57 PM 	Tornado 	F1 	0 	0 	0K 	0K
+318 Quinter
+05/23/2008 	15:34 PM 	Tornado 	F1 	0 	0 	25K 	0K
+319 Studley
+05/23/2008 	15:39 PM 	Tornado 	F1 	0 	0 	25K 	0K
+320 Tasco
+05/23/2008 	15:43 PM 	Tornado 	F2 	0 	0 	1.0M 	0K
+321 Dighton Arpt
+05/23/2008 	16:01 PM 	Tornado 	F1 	0 	0 	0K 	0K
+322 Studley
+05/23/2008 	16:10 PM 	Tornado 	F1 	0 	0 	15K 	0K
+323 Dighton Arpt
+05/23/2008 	16:13 PM 	Tornado 	F1 	0 	0 	65K 	0K
+324 Shields
+05/23/2008 	16:35 PM 	Tornado 	F1 	0 	0 	0K 	0K
+325 Quinter
+05/23/2008 	17:10 PM 	Tornado 	F4 	0 	2 	2.5M 	0K
+326 Laird
+05/23/2008 	18:07 PM 	Tornado 	F2 	0 	0 	0K 	0K
+327 Arnold
+05/23/2008 	18:25 PM 	Tornado 	F2 	0 	0 	0K 	0K
+328 Clark State Lake
+05/23/2008 	18:25 PM 	Tornado 	F3 	0 	0 	0K 	0K
+329 Osgood
+05/23/2008 	18:29 PM 	Tornado 	F3 	0 	0 	0K 	0K
+330 Clark State Lake
+05/23/2008 	18:42 PM 	Tornado 	F1 	0 	0 	0K 	0K
+331 Cedar Bluff Res
+05/23/2008 	18:42 PM 	Tornado 	F2 	0 	0 	0K 	0K
+332 Clark State Lake
+05/23/2008 	18:43 PM 	Tornado 	F1 	0 	0 	0K 	0K
+333 Mullinville
+05/23/2008 	18:45 PM 	Tornado 	F2 	0 	0 	0K 	0K
+334 Cedar Bluff Res
+05/23/2008 	18:49 PM 	Tornado 	F1 	0 	0 	0K 	0K
+335 Cedar Bluff Res
+05/23/2008 	18:58 PM 	Tornado 	F2 	0 	0 	0K 	0K
+336 Riga
+05/23/2008 	19:17 PM 	Tornado 	F2 	0 	0 	0K 	0K
+337 Ellis
+05/23/2008 	19:28 PM 	Tornado 	F1 	0 	1 	0K 	0K
+338 Riga
+05/23/2008 	19:44 PM 	Tornado 	F1 	0 	0 	0K 	0K
+339 Ellis
+05/23/2008 	19:47 PM 	Tornado 	F1 	0 	0 	0K 	0K
+340 Riga
+05/23/2008 	20:07 PM 	Tornado 	F1 	0 	0 	0K 	0K
+341 Hog Back
+05/23/2008 	20:08 PM 	Tornado 	F1 	0 	0 	0K 	0K
+342 Buttermilk
+05/23/2008 	20:08 PM 	Tornado 	F3 	0 	0 	0K 	0K
+343 Ellis
+05/23/2008 	20:10 PM 	Tornado 	F1 	0 	0 	0K 	0K
+344 Zurich
+05/23/2008 	20:11 PM 	Tornado 	F1 	0 	0 	60K 	200K
+345 Trousdale
+05/23/2008 	20:16 PM 	Tornado 	F2 	0 	0 	0K 	0K
+346 Hopewell
+05/23/2008 	20:24 PM 	Tornado 	F2 	0 	0 	0K 	0K
+347 Macksville Smith Arp
+05/23/2008 	20:25 PM 	Tornado 	F3 	0 	0 	0K 	0K
+348 Bloom
+05/23/2008 	20:26 PM 	Tornado 	F1 	0 	0 	145K 	0K
+349 Protection
+05/23/2008 	20:30 PM 	Tornado 	F1 	0 	0 	0K 	0K
+350 Belpre
+05/23/2008 	20:42 PM 	Tornado 	F2 	0 	1 	0K 	0K
+351 Plainville Arpk
+05/23/2008 	20:45 PM 	Tornado 	F1 	0 	0 	100K 	200K
+352 Coldwater
+05/23/2008 	20:52 PM 	Tornado 	F1 	0 	0 	0K 	0K
+353 Mullinville
+05/23/2008 	21:03 PM 	Tornado 	F2 	0 	0 	0K 	0K
+354 Lake City
+05/23/2008 	21:08 PM 	Tornado 	F2 	0 	0 	0K 	0K
+355 Windthorst
+05/23/2008 	21:12 PM 	Tornado 	F2 	0 	0 	0K 	0K
+356 Sitka
+05/23/2008 	21:12 PM 	Tornado 	F1 	0 	0 	0K 	0K
+357 Sawyer
+05/23/2008 	21:19 PM 	Tornado 	F1 	0 	0 	0K 	0K
+358 Offerle
+05/23/2008 	21:19 PM 	Tornado 	F2 	0 	0 	0K 	0K
+359 Sawyer
+05/23/2008 	21:24 PM 	Tornado 	F3 	2 	2 	0K 	0K
+360 Ellinwood
+05/23/2008 	21:30 PM 	Tornado 	F1 	0 	0 	125K 	0K
+361 Kinsley Muni Arpt
+05/23/2008 	21:41 PM 	Tornado 	F2 	0 	0 	0K 	0K
+362 Olcott
+05/23/2008 	22:10 PM 	Tornado 	F1 	0 	0 	65K 	0K
+363 Healy
+05/25/2008 	13:57 PM 	Tornado 	F1 	0 	0 	0K 	0K
+364 Macksville
+05/26/2008 	17:08 PM 	Tornado 	F1 	0 	0 	65K 	0K
+365 Pratt
+05/26/2008 	18:09 PM 	Tornado 	F1 	0 	0 	0K 	0K
+366 Palco
+05/29/2008 	17:02 PM 	Tornado 	F1 	0 	0 	75K 	100K
+367 Woodston
+05/29/2008 	17:38 PM 	Tornado 	F1 	0 	0 	60K 	0K
+368 Tipton
+05/29/2008 	19:28 PM 	Tornado 	F1 	0 	0 	10K 	0K
+369 Glen Elder
+05/29/2008 	19:40 PM 	Tornado 	F2 	0 	0 	500K 	500K
+370 Jewell
+05/29/2008 	20:00 PM 	Tornado 	F3 	0 	0 	5.0M 	1.0M
+371 Courtland
+05/29/2008 	20:34 PM 	Tornado 	F3 	0 	0 	1.0M 	0K
+372 Preston
+06/05/2008 	13:59 PM 	Tornado 	F1 	0 	0 	65K 	0K
+373 Clay Center
+06/05/2008 	15:33 PM 	Tornado 	F1 	0 	0 	0K 	0K
+374 Oak Hill
+06/05/2008 	15:19 PM 	Tornado 	F1 	0 	0 	0K 	0K
+375 Phillips Vlg
+06/11/2008 	20:40 PM 	Tornado 	F3 	0 	0 	2.6M 	0K
+376 Hitschmann
+06/11/2008 	17:45 PM 	Tornado 	F1 	0 	0 	65K 	0K
+377 Ogden
+06/11/2008 	21:48 PM 	Tornado 	F4 	0 	0 	0K 	0K
+378 Bancroft
+06/11/2008 	23:05 PM 	Tornado 	F1 	0 	0 	0K 	0K
+379 Soldier
+06/11/2008 	22:54 PM 	Tornado 	F2 	1 	0 	0K 	0K
+380 Enterprise
+06/11/2008 	21:12 PM 	Tornado 	F3 	1 	3 	20.2M 	0K
+381 Onaga
+06/11/2008 	22:46 PM 	Tornado 	F2 	1 	0 	0K 	0K
+382 Winfield
+06/12/2008 	22:06 PM 	Tornado 	F1 	0 	0 	125K 	0K
+383 Collano
+06/18/2008 	19:33 PM 	Tornado 	F1 	0 	0 	85K 	0K
+384 Eudora
+09/12/2008 	15:51 PM 	Tornado 	F1 	0 	0 	0K 	0K
+
+
+*Kentucky* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+385 Bon Ayr
+01/10/2008 	14:02 PM 	Tornado 	F1 	0 	0 	500K 	100K
+386 Louisville
+01/29/2008 	20:00 PM 	Tornado 	F1 	0 	0 	3.0M 	0K
+387 Lone Star
+02/05/2008 	23:32 PM 	Tornado 	F1 	0 	0 	500K 	0K
+388 Pottertown
+02/05/2008 	18:25 PM 	Tornado 	F1 	0 	0 	35K 	0K
+389 Maple Grove
+02/05/2008 	18:50 PM 	Tornado 	F1 	0 	0 	60K 	0K
+390 Canton
+02/05/2008 	18:45 PM 	Tornado 	F1 	0 	0 	8K 	0K
+391 Sinking Fork
+02/05/2008 	19:09 PM 	Tornado 	F2 	0 	2 	4.4M 	0K
+392 Greenville
+02/05/2008 	19:44 PM 	Tornado 	F3 	3 	24 	21.3M 	0K
+393 Sirocco
+02/05/2008 	23:54 PM 	Tornado 	F1 	0 	0 	2.0M 	0K
+394 Bugtussle
+02/05/2008 	22:31 PM 	Tornado 	F3 	0 	0 	3.7M 	0K
+395 Mud Camp
+02/05/2008 	22:50 PM 	Tornado 	F3 	0 	0 	1K 	0K
+396 Vigo
+02/06/2008 	00:46 AM 	Tornado 	F2 	0 	0 	175K 	0K
+397 Deep Creek
+02/06/2008 	01:06 AM 	Tornado 	F2 	0 	0 	15K 	0K
+398 Kendall Spgs
+02/06/2008 	02:06 AM 	Tornado 	F1 	0 	0 	250K 	0K
+399 Woodlawn
+02/06/2008 	00:50 AM 	Tornado 	F2 	0 	2 	250K 	0K
+400 Stedmantown
+02/06/2008 	01:08 AM 	Tornado 	F1 	0 	0 	250K 	250K
+401 Jimtown
+02/06/2008 	01:01 AM 	Tornado 	F1 	0 	0 	60K 	0K
+402 Franklin Xrds
+02/06/2008 	00:21 AM 	Tornado 	F2 	0 	0 	3.0M 	0K
+403 Tunnel Hill
+02/06/2008 	00:27 AM 	Tornado 	F2 	0 	0 	150K 	0K
+404 Nelsonville
+02/06/2008 	00:38 AM 	Tornado 	F2 	0 	0 	50K 	100K
+405 Broadwell
+02/06/2008 	01:29 AM 	Tornado 	F2 	0 	1 	500K 	200K
+406 Amos
+02/06/2008 	01:40 AM 	Tornado 	F3 	4 	11 	1.3M 	0K
+407 Stringtown
+02/06/2008 	01:20 AM 	Tornado 	F1 	0 	0 	1.0M 	0K
+408 Fountain Run
+02/06/2008 	01:51 AM 	Tornado 	F3 	0 	0 	30K 	200K
+409 Fairbanks
+04/04/2008 	00:20 AM 	Tornado 	F1 	0 	0 	50K 	0K
+410 Wait
+04/11/2008 	12:50 PM 	Tornado 	F2 	0 	1 	1.0M 	500K
+411 Browns Xrds
+04/11/2008 	11:39 AM 	Tornado 	F1 	0 	0 	50K 	0K
+412 Snow
+04/11/2008 	11:41 AM 	Tornado 	F1 	0 	0 	2K 	0K
+413 Narvel
+04/11/2008 	11:46 AM 	Tornado 	F2 	0 	0 	200K 	0K
+414 Cartwright
+04/11/2008 	11:44 AM 	Tornado 	F2 	0 	0 	75K 	0K
+415 Krupp
+05/11/2008 	08:15 AM 	Tornado 	F1 	0 	0 	100K 	0K
+416 Cory
+05/11/2008 	09:20 AM 	Tornado 	F1 	0 	0 	300K 	0K
+417 Wooton
+05/11/2008 	09:27 AM 	Tornado 	F1 	0 	0 	25K 	0K
+
+
+*Louisiana* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+418 New Roads
+01/10/2008 	13:10 PM 	Tornado 	F1 	0 	0 	1.5M 	0K
+419 Independence
+02/12/2008 	13:45 PM 	Tornado 	F1 	1 	0 	25K 	0K
+420 Morganza
+02/16/2008 	06:30 AM 	Tornado 	F1 	0 	0 	150K 	0K
+421 Roseland
+02/17/2008 	03:55 AM 	Tornado 	F1 	0 	0 	15K 	0K
+422 Palmetto
+02/17/2008 	01:30 AM 	Tornado 	F1 	0 	0 	125K 	0K
+423 Greensburg
+02/17/2008 	03:42 AM 	Tornado 	F1 	0 	0 	30K 	0K
+424 Estelle
+03/19/2008 	03:00 AM 	Tornado 	F1 	0 	0 	200K 	0K
+425 Atlanta
+04/04/2008 	09:08 AM 	Tornado 	F1 	0 	0 	25K 	0K
+426 Menefee
+04/04/2008 	09:21 AM 	Tornado 	F1 	0 	1 	0K 	0K
+427 Shear
+05/15/2008 	03:15 AM 	Tornado 	F1 	0 	2 	100K 	0K
+428 Ridge
+05/15/2008 	05:18 AM 	Tornado 	F2 	0 	0 	300K 	0K
+429 Lafayette
+05/15/2008 	05:40 AM 	Tornado 	F1 	0 	0 	3.0M 	0K
+430 Breaux Bridge
+05/15/2008 	05:55 AM 	Tornado 	F1 	0 	1 	1.5M 	0K
+431 Folsom
+05/15/2008 	08:00 AM 	Tornado 	F1 	0 	0 	50K 	0K
+432 Enon
+05/15/2008 	08:20 AM 	Tornado 	F1 	0 	0 	100K 	0K
+433 Jonesville
+09/02/2008 	21:25 PM 	Tornado 	F1 	0 	0 	600K 	0K
+434 New Era
+09/03/2008 	03:37 AM 	Tornado 	F1 	0 	0 	7K 	0K
+435 Quaid
+09/03/2008 	16:22 PM 	Tornado 	F1 	0 	0 	400K 	0K
+436 Wallace Ridge
+09/03/2008 	17:10 PM 	Tornado 	F1 	0 	0 	150K 	0K
+437 Arnaudville
+09/03/2008 	12:50 PM 	Tornado 	F1 	0 	0 	40K 	0K
+438 Cheneyville
+09/03/2008 	14:15 PM 	Tornado 	F1 	0 	0 	40K 	0K
+439 Basile
+09/03/2008 	01:57 AM 	Tornado 	F2 	2 	0 	300K 	0K
+440 Mamou
+09/12/2008 	15:25 PM 	Tornado 	F2 	0 	0 	200K 	0K
+
+
+*Maryland* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+441 University Park
+04/20/2008 	13:27 PM 	Tornado 	F1 	0 	0 	40K 	0K
+
+
+*Michigan* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+442 Plainwell
+04/09/2008 	00:39 AM 	Tornado 	F1 	0 	0 	150K 	0K
+443 Doster
+04/09/2008 	00:42 AM 	Tornado 	F1 	0 	0 	100K 	0K
+444 Hersey
+06/08/2008 	13:20 PM 	Tornado 	F1 	0 	0 	0K 	0K
+445 Needmore
+06/08/2008 	14:45 PM 	Tornado 	F1 	0 	0 	0K 	0K
+446 Hopwood Acres
+06/08/2008 	14:59 PM 	Tornado 	F1 	0 	0 	0K 	0K
+447 Hamlin Lake Lake
+06/12/2008 	20:26 PM 	Tornado 	F1 	0 	0 	0K 	0K
+448 Backus Beach
+06/22/2008 	13:15 PM 	Tornado 	F1 	0 	0 	50K 	0K
+449 Plymouth
+09/13/2008 	20:18 PM 	Tornado 	F2 	0 	0 	250K 	0K
+450 Paw Paw
+09/13/2008 	15:25 PM 	Tornado 	F1 	0 	0 	0K 	0K
+
+
+*Minnesota* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+451 Coon Rapids
+05/25/2008 	15:35 PM 	Tornado 	F1 	0 	2 	700K 	0K
+452 Centerville
+05/25/2008 	15:55 PM 	Tornado 	F3 	0 	0 	300K 	0K
+453 Hugo
+05/25/2008 	15:58 PM 	Tornado 	F3 	1 	17 	25.0M 	0K
+454 Menahga
+06/06/2008 	08:14 AM 	Tornado 	F2 	0 	1 	5.0M 	500K
+455 Hubbard
+06/06/2008 	08:20 AM 	Tornado 	F2 	0 	1 	5.0M 	800K
+456 Dorset
+06/06/2008 	08:37 AM 	Tornado 	F3 	0 	0 	0K 	0K
+457 Lake George
+06/06/2008 	08:55 AM 	Tornado 	F1 	0 	0 	400K 	0K
+458 Badoura
+06/06/2008 	09:43 AM 	Tornado 	F1 	0 	0 	200K 	0K
+459 Halstad
+06/09/2008 	12:44 PM 	Tornado 	F1 	0 	0 	40K 	0K
+460 Pfingsten
+06/11/2008 	16:46 PM 	Tornado 	F1 	0 	0 	20K 	0K
+461 Wirock
+06/11/2008 	16:48 PM 	Tornado 	F1 	0 	0 	50K 	0K
+462 Lime Creek
+06/11/2008 	17:05 PM 	Tornado 	F1 	0 	1 	100K 	0K
+463 Essig
+06/11/2008 	18:52 PM 	Tornado 	F1 	0 	0 	100K 	0K
+464 Leavenworth
+06/11/2008 	18:20 PM 	Tornado 	F1 	0 	0 	300K 	0K
+465 Lake Itasca
+06/12/2008 	19:50 PM 	Tornado 	F1 	0 	0 	200K 	20K
+466 Lake George
+06/12/2008 	19:54 PM 	Tornado 	F1 	0 	0 	300K 	100K
+467 Nevis
+06/12/2008 	18:14 PM 	Tornado 	F1 	0 	0 	300K 	100K
+468 Two Inlets
+06/12/2008 	19:44 PM 	Tornado 	F1 	0 	0 	200K 	100K
+469 Fergus Falls
+06/14/2008 	17:15 PM 	Tornado 	F1 	0 	0 	100K 	50K
+470 Foxhome
+06/14/2008 	16:55 PM 	Tornado 	F1 	0 	0 	150K 	100K
+471 Priam
+07/11/2008 	17:26 PM 	Tornado 	F3 	0 	2 	0K 	0K
+472 Luce
+07/11/2008 	15:15 PM 	Tornado 	F1 	0 	0 	200K 	100K
+473 Lyman
+07/11/2008 	15:43 PM 	Tornado 	F1 	0 	0 	40K 	20K
+474 Beaulieu
+07/11/2008 	15:00 PM 	Tornado 	F2 	0 	0 	500K 	100K
+475 Mattson
+07/16/2008 	19:39 PM 	Tornado 	F1 	0 	0 	10K 	10K
+
+
+*Missouri* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+476 Mountain
+01/07/2008 	20:15 PM 	Tornado 	F1 	0 	0 	300K 	0K
+477 Mayflower
+01/07/2008 	20:24 PM 	Tornado 	F1 	0 	0 	0K 	0K
+478 Phillipsburg
+01/07/2008 	21:00 PM 	Tornado 	F2 	0 	0 	100K 	0K
+479 Mulroy
+01/07/2008 	18:29 PM 	Tornado 	F3 	1 	0 	1.0M 	0K
+480 Caddo
+01/07/2008 	18:35 PM 	Tornado 	F3 	2 	6 	10.0M 	0K
+481 Conway
+01/07/2008 	19:01 PM 	Tornado 	F3 	0 	12 	8.0M 	0K
+482 Mulroy
+01/07/2008 	19:32 PM 	Tornado 	F2 	0 	0 	1.0M 	0K
+483 Holman
+01/07/2008 	19:42 PM 	Tornado 	F2 	0 	0 	1.0M 	0K
+484 Powellville
+01/07/2008 	20:09 PM 	Tornado 	F3 	0 	0 	110K 	0K
+485 Hooker
+01/07/2008 	20:06 PM 	Tornado 	F3 	0 	3 	1.0M 	0K
+486 Pioneer
+01/07/2008 	17:06 PM 	Tornado 	F2 	0 	0 	500K 	0K
+487 Republic
+01/07/2008 	17:57 PM 	Tornado 	F2 	0 	0 	2.0M 	0K
+488 Doolittle
+01/07/2008 	21:40 PM 	Tornado 	F1 	0 	0 	5K 	0K
+489 Beach
+01/07/2008 	20:42 PM 	Tornado 	F1 	0 	0 	50K 	0K
+490 Riverdale
+01/07/2008 	21:36 PM 	Tornado 	F1 	0 	1 	200K 	0K
+491 Fowler
+01/08/2008 	03:47 AM 	Tornado 	F1 	0 	0 	100K 	0K
+492 Idalia
+01/08/2008 	12:40 PM 	Tornado 	F1 	0 	0 	250K 	0K
+493 Drury
+01/08/2008 	03:43 AM 	Tornado 	F1 	0 	0 	125K 	0K
+494 Wayne
+01/08/2008 	02:22 AM 	Tornado 	F1 	0 	0 	300K 	0K
+495 Alley Spg
+01/08/2008 	04:27 AM 	Tornado 	F1 	0 	0 	0K 	0K
+496 Munsett
+01/08/2008 	04:38 AM 	Tornado 	F1 	0 	0 	75K 	0K
+497 Elsey
+01/08/2008 	02:36 AM 	Tornado 	F1 	0 	0 	2.0M 	0K
+498 Springfield
+01/08/2008 	02:37 AM 	Tornado 	F1 	0 	0 	50K 	0K
+499 Montague
+01/08/2008 	02:50 AM 	Tornado 	F1 	0 	0 	250K 	0K
+500 Oriole
+01/29/2008 	16:09 PM 	Tornado 	F1 	0 	0 	75K 	0K
+501 Harviell
+02/05/2008 	20:03 PM 	Tornado 	F1 	0 	0 	100K 	0K
+502 Burr
+02/05/2008 	19:31 PM 	Tornado 	F1 	0 	0 	80K 	0K
+503 Shover
+02/05/2008 	20:24 PM 	Tornado 	F1 	0 	0 	150K 	0K
+504 Fisk
+02/05/2008 	20:18 PM 	Tornado 	F2 	0 	0 	150K 	0K
+505 Foose
+03/31/2008 	13:17 PM 	Tornado 	F2 	0 	3 	1.0M 	0K
+506 Seneca
+03/31/2008 	12:48 PM 	Tornado 	F1 	0 	0 	50K 	0K
+507 Lebanon
+03/31/2008 	13:46 PM 	Tornado 	F2 	0 	0 	500K 	0K
+508 Liberty Mitchell Arp
+05/02/2008 	00:56 AM 	Tornado 	F3 	0 	0 	4.0M 	0K
+509 Gashland
+05/02/2008 	01:03 AM 	Tornado 	F2 	0 	0 	10.0M 	0K
+510 Hornet
+05/10/2008 	16:54 PM 	Tornado 	F4 	14 	200 	35.0M 	0K
+511 Kendricktown
+05/10/2008 	17:08 PM 	Tornado 	F1 	1 	10 	1.0M 	0K
+512 Pioneer
+05/10/2008 	17:31 PM 	Tornado 	F2 	1 	0 	10.0M 	0K
+513 Ewing
+05/30/2008 	16:10 PM 	Tornado 	F1 	0 	0 	10K 	0K
+514 Barnumton
+06/03/2008 	23:25 PM 	Tornado 	F1 	0 	0 	10K 	0K
+515 Corning
+06/05/2008 	18:49 PM 	Tornado 	F1 	0 	0 	250K 	0K
+516 Grandin
+06/13/2008 	14:55 PM 	Tornado 	F1 	0 	0 	50K 	0K
+517 Sgf Downtown Arpt
+06/19/2008 	14:30 PM 	Tornado 	F1 	0 	0 	150K 	0K
+518 Cato
+11/06/2008 	01:44 AM 	Tornado 	F1 	0 	0 	40K 	0K
+
+
+*Mississippi* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+519 Harrisville
+01/08/2008 	17:37 PM 	Tornado 	F1 	0 	0 	400K 	200K
+520 Rocky Spgs
+01/10/2008 	11:27 AM 	Tornado 	F1 	0 	0 	20K 	60K
+521 Macon Muni Arpt
+01/10/2008 	14:58 PM 	Tornado 	F1 	0 	0 	30K 	0K
+522 Midway
+01/10/2008 	13:54 PM 	Tornado 	F1 	0 	0 	25K 	0K
+523 Pickens
+01/10/2008 	11:51 AM 	Tornado 	F3 	0 	3 	3.0M 	700K
+524 Ethel
+01/10/2008 	12:28 PM 	Tornado 	F3 	0 	0 	1.0M 	500K
+525 Boyette
+01/10/2008 	12:03 PM 	Tornado 	F1 	0 	0 	20K 	150K
+526 Kolola Spgs
+01/10/2008 	14:09 PM 	Tornado 	F3 	0 	11 	7.0M 	0K
+527 Weir
+01/10/2008 	12:47 PM 	Tornado 	F3 	0 	3 	3.0M 	2.0M
+528 Horn Lake Desoto Arp
+02/05/2008 	17:32 PM 	Tornado 	F2 	0 	0 	28.4M 	0K
+529 College Hill Station
+02/05/2008 	17:57 PM 	Tornado 	F3 	0 	14 	35.0M 	0K
+530 Sardis Lake
+02/05/2008 	17:57 PM 	Tornado 	F1 	0 	0 	25K 	0K
+531 Lone Pine
+02/05/2008 	18:56 PM 	Tornado 	F1 	0 	4 	250K 	0K
+532 Singleton
+02/06/2008 	01:25 AM 	Tornado 	F1 	0 	0 	0K 	0K
+533 Bay Spgs Thigpen Arp
+02/12/2008 	14:07 PM 	Tornado 	F1 	0 	0 	20K 	70K
+534 Gulde
+02/12/2008 	13:07 PM 	Tornado 	F1 	0 	0 	200K 	0K
+535 Flowood
+02/12/2008 	12:45 PM 	Tornado 	F1 	0 	0 	1.0M 	0K
+536 Arbo
+02/12/2008 	13:53 PM 	Tornado 	F1 	0 	0 	200K 	0K
+537 Liberty
+03/03/2008 	15:50 PM 	Tornado 	F1 	0 	0 	150K 	0K
+538 Red Rock
+03/03/2008 	16:25 PM 	Tornado 	F2 	0 	0 	2K 	400K
+539 Mc Laurin
+03/03/2008 	23:12 PM 	Tornado 	F1 	0 	14 	1.5M 	0K
+540 Mendenhall
+03/03/2008 	21:01 PM 	Tornado 	F1 	0 	0 	5K 	30K
+541 Martinville
+03/03/2008 	21:10 PM 	Tornado 	F1 	0 	0 	300K 	0K
+542 Jamestown
+03/03/2008 	21:25 PM 	Tornado 	F1 	0 	0 	250K 	25K
+543 Otho
+03/03/2008 	21:43 PM 	Tornado 	F1 	0 	0 	5K 	0K
+544 Lake
+03/03/2008 	21:49 PM 	Tornado 	F1 	0 	0 	1.2M 	0K
+545 Shubuta
+03/03/2008 	23:20 PM 	Tornado 	F2 	0 	0 	400K 	500K
+546 Enterprise
+05/02/2008 	16:48 PM 	Tornado 	F2 	0 	0 	250K 	0K
+547 Glenfield
+05/02/2008 	17:00 PM 	Tornado 	F2 	0 	0 	75K 	0K
+548 Baker
+05/02/2008 	17:12 PM 	Tornado 	F1 	0 	0 	50K 	0K
+549 Blackland
+05/02/2008 	17:41 PM 	Tornado 	F1 	0 	0 	75K 	0K
+550 Rienzi
+05/02/2008 	18:00 PM 	Tornado 	F1 	0 	0 	25K 	0K
+551 Benoit Vly Fld
+05/02/2008 	19:07 PM 	Tornado 	F1 	0 	0 	20K 	300K
+552 Mayday
+05/02/2008 	23:49 PM 	Tornado 	F1 	0 	0 	40K 	300K
+553 (tup)lemons Arpt Tup
+05/08/2008 	07:01 AM 	Tornado 	F3 	0 	0 	1.5M 	0K
+554 Ratliff
+05/08/2008 	07:42 AM 	Tornado 	F2 	0 	0 	150K 	0K
+555 Burgess
+05/10/2008 	20:33 PM 	Tornado 	F1 	0 	0 	25K 	0K
+556 Enid
+05/10/2008 	21:15 PM 	Tornado 	F1 	0 	2 	175K 	0K
+557 Purvis
+05/15/2008 	09:05 AM 	Tornado 	F1 	0 	0 	10K 	0K
+558 Rock Hill
+05/15/2008 	09:09 AM 	Tornado 	F1 	0 	0 	700K 	500K
+559 Mc Laurin
+05/15/2008 	09:15 AM 	Tornado 	F1 	0 	0 	80K 	0K
+560 Pontotoc
+10/07/2008 	18:55 PM 	Tornado 	F1 	0 	0 	15K 	0K
+
+
+*North Carolina* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+561 Hookerton
+02/18/2008 	03:45 AM 	Tornado 	F2 	0 	3 	500K 	0K
+562 Pactolus
+02/18/2008 	04:30 AM 	Tornado 	F1 	0 	0 	50K 	0K
+563 Old Ford
+02/18/2008 	04:38 AM 	Tornado 	F1 	0 	0 	50K 	0K
+564 Williamston
+02/18/2008 	04:50 AM 	Tornado 	F1 	0 	0 	100K 	0K
+565 Hampstead
+03/15/2008 	18:56 PM 	Tornado 	F1 	0 	0 	2.0M 	0K
+566 Beam Mill
+04/19/2008 	19:07 PM 	Tornado 	F1 	0 	0 	25K 	0K
+567 Elay
+04/19/2008 	19:15 PM 	Tornado 	F1 	0 	0 	0K 	0K
+568 Johnstown
+04/19/2008 	19:21 PM 	Tornado 	F1 	0 	0 	130K 	0K
+569 Clemmons Station
+05/08/2008 	21:23 PM 	Tornado 	F2 	0 	0 	0K 	0K
+570 Clemmons Station
+05/08/2008 	21:25 PM 	Tornado 	F3 	0 	2 	2.5M 	0K
+571 Deep River
+05/08/2008 	22:29 PM 	Tornado 	F2 	1 	3 	4.0M 	0K
+572 Gastonia
+05/09/2008 	01:10 AM 	Tornado 	F2 	0 	0 	7.0M 	0K
+573 Paw Creek
+05/09/2008 	01:23 AM 	Tornado 	F1 	0 	0 	0K 	0K
+574 Trap
+05/09/2008 	07:29 AM 	Tornado 	F2 	0 	0 	50K 	0K
+575 Newsome Store
+05/09/2008 	07:36 AM 	Tornado 	F2 	0 	0 	50K 	0K
+576 Cannon Ferry
+05/09/2008 	07:44 AM 	Tornado 	F1 	0 	0 	20K 	0K
+577 Lewiston
+05/11/2008 	17:25 PM 	Tornado 	F2 	0 	2 	1.0M 	0K
+578 Belgrade
+05/11/2008 	17:57 PM 	Tornado 	F2 	0 	6 	150K 	0K
+579 Maysville
+05/11/2008 	17:59 PM 	Tornado 	F2 	0 	0 	5K 	0K
+580 Newport
+05/11/2008 	19:06 PM 	Tornado 	F1 	0 	0 	30K 	0K
+581 Parmele
+11/15/2008 	04:30 AM 	Tornado 	F1 	0 	0 	50K 	0K
+582 Wilson
+11/15/2008 	03:30 AM 	Tornado 	F3 	1 	4 	1.0M 	200K
+583 Kenly
+11/15/2008 	03:12 AM 	Tornado 	F2 	0 	0 	0K 	0K
+584 Peacocks Xrds
+11/15/2008 	02:42 AM 	Tornado 	F1 	0 	0 	30K 	0K
+585 Kenly
+11/15/2008 	03:10 AM 	Tornado 	F2 	1 	2 	500K 	200K
+
+
+*North Dakota* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+586 New Salem
+05/24/2008 	19:10 PM 	Tornado 	F1 	0 	0 	200K 	0K
+587 Calio
+07/07/2008 	15:18 PM 	Tornado 	F1 	0 	0 	100K 	100K
+588 Crocus
+07/07/2008 	15:11 PM 	Tornado 	F1 	0 	0 	150K 	5K
+589 Armourdale
+07/07/2008 	14:45 PM 	Tornado 	F3 	0 	0 	5K 	5K
+590 San Haven
+07/07/2008 	13:50 PM 	Tornado 	F3 	0 	3 	1.5M 	0K
+591 Hamilton
+07/16/2008 	19:07 PM 	Tornado 	F1 	0 	0 	5K 	10K
+592 Pittsburg
+07/16/2008 	19:32 PM 	Tornado 	F1 	0 	0 	4K 	20K
+
+
+*Nebraska* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+593 Bridgeport
+04/23/2008 	16:32 PM 	Tornado 	F1 	0 	0 	300K 	0K
+594 Johnson
+04/24/2008 	23:50 PM 	Tornado 	F1 	0 	0 	100K 	0K
+595 Lebanon
+05/22/2008 	18:19 PM 	Tornado 	F1 	0 	0 	350K 	0K
+596 Funk
+05/29/2008 	16:16 PM 	Tornado 	F2 	0 	0 	75K 	0K
+597 Alfalpha Siding
+05/29/2008 	16:20 PM 	Tornado 	F1 	0 	0 	100K 	100K
+598 Kearney
+05/29/2008 	16:26 PM 	Tornado 	F2 	0 	0 	11.0M 	500K
+599 Aaron Arpt
+05/29/2008 	18:02 PM 	Tornado 	F2 	0 	0 	20K 	100K
+600 Talbasta
+05/29/2008 	18:55 PM 	Tornado 	F1 	0 	0 	0K 	0K
+601 Blair Arpt
+05/29/2008 	19:15 PM 	Tornado 	F1 	0 	0 	0K 	0K
+602 Hubbell
+05/29/2008 	21:12 PM 	Tornado 	F1 	0 	0 	50K 	0K
+603 Reynolds
+05/29/2008 	21:30 PM 	Tornado 	F2 	0 	0 	1.8M 	0K
+604 Pickrell
+05/29/2008 	22:25 PM 	Tornado 	F2 	0 	0 	750K 	0K
+605 Champion
+06/04/2008 	16:08 PM 	Tornado 	F1 	0 	0 	30K 	10K
+606 Polaks Arpt
+06/04/2008 	19:37 PM 	Tornado 	F1 	0 	0 	0K 	0K
+607 Ceresco
+06/04/2008 	19:55 PM 	Tornado 	F1 	0 	0 	0K 	0K
+608 Dwight
+06/04/2008 	19:00 PM 	Tornado 	F1 	0 	0 	0K 	0K
+609 Staplehurst
+06/04/2008 	18:25 PM 	Tornado 	F1 	0 	0 	0K 	0K
+610 Champion
+06/04/2008 	15:49 PM 	Tornado 	F1 	0 	0 	95K 	15K
+611 Ulysses
+06/04/2008 	18:30 PM 	Tornado 	F1 	0 	0 	0K 	0K
+612 Ulysses
+06/04/2008 	18:44 PM 	Tornado 	F1 	0 	0 	0K 	0K
+613 (fnb)brener Fld Fall
+06/05/2008 	18:39 PM 	Tornado 	F2 	0 	0 	0K 	0K
+614 Johnson
+06/05/2008 	17:20 PM 	Tornado 	F1 	0 	0 	0K 	0K
+615 Stuart
+06/05/2008 	15:00 PM 	Tornado 	F2 	0 	0 	150K 	15K
+616 Rose
+06/05/2008 	14:40 PM 	Tornado 	F2 	0 	0 	50K 	10K
+617 Johnson
+06/05/2008 	17:23 PM 	Tornado 	F1 	0 	0 	0K 	0K
+618 Johnson
+06/05/2008 	17:35 PM 	Tornado 	F1 	0 	0 	0K 	0K
+619 Gretna
+06/08/2008 	01:10 AM 	Tornado 	F2 	0 	0 	0K 	0K
+620 Lane
+06/08/2008 	01:12 AM 	Tornado 	F1 	0 	0 	0K 	0K
+621 Omaha Millard Arpt
+06/08/2008 	01:22 AM 	Tornado 	F2 	0 	3 	0K 	0K
+622 Louisville
+06/11/2008 	18:50 PM 	Tornado 	F1 	0 	0 	0K 	0K
+623 Arizona
+06/11/2008 	17:25 PM 	Tornado 	F1 	0 	0 	0K 	0K
+
+
+*New Hampshire* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+624 South Wolfeboro
+07/24/2008 	11:20 AM 	Tornado 	F2 	0 	0 	0K 	0K
+625 Leavitts Hill
+07/24/2008 	10:36 AM 	Tornado 	F2 	1 	2 	0K 	0K
+626 South Barnstead
+07/24/2008 	10:47 AM 	Tornado 	F2 	0 	0 	0K 	0K
+627 New Durham
+07/24/2008 	11:05 AM 	Tornado 	F2 	0 	0 	0K 	0K
+628 Epsom
+07/24/2008 	10:38 AM 	Tornado 	F2 	0 	0 	0K 	0K
+
+
+*Ohio* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+629 Curtice
+04/11/2008 	18:20 PM 	Tornado 	F1 	0 	0 	200K 	0K
+630 Arcadia
+05/31/2008 	00:29 AM 	Tornado 	F2 	0 	6 	1.0M 	0K
+631 Fostoria Snyder Arpt
+05/31/2008 	00:41 AM 	Tornado 	F1 	0 	0 	750K 	0K
+
+
+*Oklahoma* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+632 Slim
+03/31/2008 	18:31 PM 	Tornado 	F1 	0 	0 	10K 	0K
+633 Hominy
+03/31/2008 	04:46 AM 	Tornado 	F1 	0 	0 	50K 	0K
+634 Wyandotte
+03/31/2008 	12:44 PM 	Tornado 	F1 	0 	0 	75K 	0K
+635 Edmond
+03/31/2008 	00:39 AM 	Tornado 	F1 	0 	0 	450K 	0K
+636 Bunch
+04/10/2008 	04:15 AM 	Tornado 	F2 	0 	0 	100K 	0K
+637 Stilwell
+04/10/2008 	04:26 AM 	Tornado 	F2 	0 	0 	50K 	0K
+638 Skedee
+05/01/2008 	19:25 PM 	Tornado 	F1 	0 	0 	20K 	0K
+639 Fairfax
+05/01/2008 	19:37 PM 	Tornado 	F1 	0 	0 	75K 	0K
+640 Pryor
+05/02/2008 	02:03 AM 	Tornado 	F1 	0 	0 	20K 	0K
+641 Tiawah
+05/02/2008 	02:03 AM 	Tornado 	F1 	0 	0 	5K 	0K
+642 Pryor
+05/02/2008 	02:04 AM 	Tornado 	F1 	0 	2 	50K 	0K
+643 Paoli
+05/07/2008 	15:56 PM 	Tornado 	F1 	0 	1 	50K 	0K
+644 Yukon
+05/07/2008 	15:57 PM 	Tornado 	F1 	0 	0 	50K 	0K
+645 Bethany
+05/07/2008 	16:02 PM 	Tornado 	F1 	0 	0 	100K 	0K
+646 Haywood
+05/10/2008 	16:03 PM 	Tornado 	F2 	0 	0 	500K 	0K
+647 Welch
+05/10/2008 	16:20 PM 	Tornado 	F2 	0 	0 	600K 	0K
+648 North Miami
+05/10/2008 	16:25 PM 	Tornado 	F4 	6 	150 	15.0M 	0K
+649 Hartshorne
+05/10/2008 	16:42 PM 	Tornado 	F2 	0 	0 	200K 	0K
+650 Quapaw
+05/10/2008 	16:48 PM 	Tornado 	F1 	0 	0 	0K 	0K
+651 Higgins
+05/10/2008 	16:55 PM 	Tornado 	F2 	0 	4 	1.0M 	0K
+652 Daisy
+05/10/2008 	17:05 PM 	Tornado 	F2 	0 	0 	75K 	0K
+653 Adel
+05/10/2008 	17:10 PM 	Tornado 	F1 	0 	0 	0K 	0K
+654 Snow
+05/10/2008 	17:30 PM 	Tornado 	F1 	0 	0 	0K 	0K
+655 Albion
+05/10/2008 	17:35 PM 	Tornado 	F1 	0 	0 	0K 	0K
+656 Selman
+05/23/2008 	19:03 PM 	Tornado 	F3 	0 	0 	0K 	0K
+657 Camp Houston
+05/23/2008 	19:59 PM 	Tornado 	F2 	0 	0 	20K 	0K
+658 Lacey
+05/24/2008 	13:27 PM 	Tornado 	F1 	0 	0 	0K 	0K
+659 Lacey
+05/24/2008 	13:45 PM 	Tornado 	F2 	0 	0 	0K 	0K
+660 Douglas
+05/24/2008 	15:21 PM 	Tornado 	F2 	0 	0 	0K 	0K
+661 Hayward
+05/24/2008 	16:17 PM 	Tornado 	F1 	0 	0 	0K 	0K
+662 Bryans Corner
+06/18/2008 	20:00 PM 	Tornado 	F2 	0 	0 	200K 	0K
+
+
+*Pennsylvania* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+663 Old Clarendon
+07/26/2008 	17:07 PM 	Tornado 	F1 	0 	0 	0K 	0K
+664 East Penn Jct
+09/06/2008 	14:00 PM 	Tornado 	F1 	0 	0 	1.5M 	0K
+
+
+*Rhode Island* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+665 Barrington
+07/23/2008 	15:05 PM 	Tornado 	F1 	0 	0 	45K 	0K
+
+
+*South Carolina* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+666 Prosperity
+03/04/2008 	16:23 PM 	Tornado 	F1 	0 	0 	0K 	0K
+667 Lugoff
+03/15/2008 	15:30 PM 	Tornado 	F1 	0 	0 	0K 	0K
+668 Denmark
+03/15/2008 	18:05 PM 	Tornado 	F1 	0 	0 	0K 	0K
+669 Bamberg Carlisle Arp
+03/15/2008 	18:25 PM 	Tornado 	F1 	0 	0 	0K 	0K
+670 Branchville
+03/15/2008 	18:29 PM 	Tornado 	F3 	0 	0 	0K 	0K
+671 Ashwood
+03/15/2008 	17:52 PM 	Tornado 	F1 	0 	0 	0K 	0K
+672 Elgin
+03/15/2008 	16:22 PM 	Tornado 	F2 	0 	2 	0K 	0K
+673 Hammond Xrds
+03/15/2008 	17:10 PM 	Tornado 	F1 	0 	0 	0K 	0K
+674 Trinity
+03/15/2008 	15:25 PM 	Tornado 	F3 	2 	2 	0K 	0K
+675 Sharp
+03/15/2008 	16:43 PM 	Tornado 	F1 	0 	0 	0K 	0K
+676 Cledra
+03/15/2008 	16:04 PM 	Tornado 	F1 	0 	0 	0K 	0K
+677 Fairview Xrds
+03/15/2008 	16:41 PM 	Tornado 	F1 	0 	0 	0K 	0K
+678 Horse Creek
+03/15/2008 	17:18 PM 	Tornado 	F2 	0 	0 	0K 	0K
+679 Cartersville
+03/15/2008 	17:25 PM 	Tornado 	F1 	0 	3 	605K 	0K
+680 Ward
+03/15/2008 	16:24 PM 	Tornado 	F1 	0 	0 	0K 	0K
+681 Mt Carmel
+03/15/2008 	15:34 PM 	Tornado 	F1 	0 	0 	0K 	0K
+682 Trio
+03/15/2008 	18:36 PM 	Tornado 	F1 	0 	0 	200K 	0K
+683 Edwards
+03/15/2008 	18:17 PM 	Tornado 	F1 	0 	0 	0K 	0K
+684 Ridgeville
+03/15/2008 	19:08 PM 	Tornado 	F1 	0 	0 	218K 	0K
+685 Mt Holly
+03/15/2008 	19:25 PM 	Tornado 	F1 	0 	7 	150K 	0K
+686 Cedar Hill
+03/15/2008 	19:36 PM 	Tornado 	F1 	0 	0 	200K 	0K
+687 Johnston
+04/04/2008 	17:24 PM 	Tornado 	F1 	0 	0 	0K 	0K
+688 Yonges Is
+05/11/2008 	17:12 PM 	Tornado 	F2 	0 	0 	1.2M 	0K
+689 Govan
+05/20/2008 	16:07 PM 	Tornado 	F1 	0 	0 	0K 	0K
+690 Clemson
+08/26/2008 	13:47 PM 	Tornado 	F1 	0 	0 	0K 	0K
+691 Wares Xrds
+08/26/2008 	15:05 PM 	Tornado 	F1 	0 	0 	50K 	0K
+692 Sandy Spgs
+08/26/2008 	14:35 PM 	Tornado 	F1 	0 	0 	0K 	0K
+693 Clemson
+08/26/2008 	14:45 PM 	Tornado 	F2 	0 	0 	0K 	0K
+694 Lone Star
+11/14/2008 	22:50 PM 	Tornado 	F1 	0 	0 	500K 	20K
+695 Carolina Mills
+11/15/2008 	00:50 AM 	Tornado 	F2 	0 	0 	325K 	0K
+
+
+*South Dakota* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+696 Wakonda
+05/29/2008 	18:10 PM 	Tornado 	F1 	0 	0 	0K 	0K
+697 Wakonda
+05/29/2008 	18:17 PM 	Tornado 	F1 	0 	0 	100K 	0K
+698 Marty
+06/05/2008 	16:00 PM 	Tornado 	F1 	0 	0 	100K 	0K
+699 Trent
+06/05/2008 	20:00 PM 	Tornado 	F1 	0 	0 	10K 	0K
+700 Baltic
+06/05/2008 	19:42 PM 	Tornado 	F2 	0 	0 	0K 	0K
+701 Deerfield
+06/10/2008 	17:55 PM 	Tornado 	F1 	0 	0 	0K 	0K
+702 Eden
+06/11/2008 	04:51 AM 	Tornado 	F1 	0 	0 	0K 	0K
+703 Red Elm
+07/28/2008 	15:35 PM 	Tornado 	F1 	0 	0 	0K 	0K
+
+
+*Tennessee* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+704 Double Bridges
+01/08/2008 	14:58 PM 	Tornado 	F1 	0 	0 	250K 	0K
+705 South Fork
+01/08/2008 	15:03 PM 	Tornado 	F1 	0 	0 	20K 	0K
+706 North Highland
+01/10/2008 	14:55 PM 	Tornado 	F2 	0 	0 	200K 	0K
+707 Green Grove
+02/05/2008 	22:15 PM 	Tornado 	F3 	13 	44 	14.1M 	1.0M
+708 Bolton
+02/05/2008 	17:00 PM 	Tornado 	F2 	0 	1 	1.0M 	0K
+709 Charleston
+02/05/2008 	17:23 PM 	Tornado 	F1 	0 	0 	75K 	0K
+710 Danville
+02/05/2008 	20:25 PM 	Tornado 	F2 	0 	0 	250K 	0K
+711 Primm Spgs
+02/05/2008 	20:40 PM 	Tornado 	F2 	0 	1 	500K 	0K
+712 Big Sandy
+02/05/2008 	20:05 PM 	Tornado 	F1 	0 	0 	0K 	0K
+713 Paynes Store
+02/05/2008 	22:07 PM 	Tornado 	F2 	2 	5 	1K 	0K
+714 Flat Wood
+02/05/2008 	20:20 PM 	Tornado 	F1 	0 	0 	0K 	0K
+715 Hornertown
+02/05/2008 	20:20 PM 	Tornado 	F1 	0 	0 	0K 	0K
+716 Clifton
+02/05/2008 	20:10 PM 	Tornado 	F1 	0 	0 	0K 	0K
+717 Spring Creek
+02/05/2008 	19:13 PM 	Tornado 	F2 	0 	0 	200K 	0K
+718 Antioch
+02/05/2008 	17:32 PM 	Tornado 	F1 	0 	0 	50K 	0K
+719 Dancyville
+02/05/2008 	18:27 PM 	Tornado 	F2 	0 	0 	200K 	0K
+720 Box Elder
+02/05/2008 	19:40 PM 	Tornado 	F4 	3 	5 	17.6M 	0K
+721 Castalian Spgs
+02/05/2008 	22:02 PM 	Tornado 	F3 	7 	14 	10.0M 	0K
+722 Yum Yum
+02/05/2008 	18:21 PM 	Tornado 	F3 	1 	0 	100K 	0K
+723 Faxon
+02/05/2008 	20:07 PM 	Tornado 	F2 	0 	0 	10.0M 	0K
+724 Lampley Store
+02/05/2008 	20:46 PM 	Tornado 	F2 	0 	0 	0.3M 	0K
+725 Gilmore
+02/05/2008 	18:59 PM 	Tornado 	F4 	0 	51 	100.0M 	0K
+726 Ramer
+02/05/2008 	19:13 PM 	Tornado 	F1 	0 	0 	250K 	0K
+727 Leighton
+02/05/2008 	18:44 PM 	Tornado 	F3 	2 	14 	10.0M 	0K
+728 Whitehaven
+02/05/2008 	17:34 PM 	Tornado 	F2 	3 	13 	100.0M 	0K
+729 Center
+02/05/2008 	17:57 PM 	Tornado 	F1 	0 	0 	150K 	0K
+730 Sugar Hill
+02/05/2008 	20:10 PM 	Tornado 	F1 	0 	0 	400K 	0K
+731 Liberty
+02/06/2008 	01:22 AM 	Tornado 	F1 	0 	0 	0K 	0K
+732 Dickson
+04/11/2008 	10:00 AM 	Tornado 	F1 	0 	0 	75K 	0K
+733 Shelbyville
+04/11/2008 	12:15 PM 	Tornado 	F2 	0 	0 	100K 	0K
+734 Onward
+04/11/2008 	13:20 PM 	Tornado 	F1 	0 	0 	50K 	0K
+735 Gaitherville
+04/11/2008 	11:05 AM 	Tornado 	F3 	0 	1 	3.0M 	0K
+736 Liberty Hill
+04/11/2008 	11:20 AM 	Tornado 	F3 	0 	0 	1.0M 	0K
+737 Mc Minnville
+04/11/2008 	12:42 PM 	Tornado 	F1 	0 	0 	1.1M 	0K
+738 Chic
+05/02/2008 	15:25 PM 	Tornado 	F2 	0 	0 	40K 	0K
+739 Shiloh
+05/02/2008 	22:57 PM 	Tornado 	F1 	0 	0 	5K 	0K
+740 Shiloh
+05/02/2008 	23:00 PM 	Tornado 	F1 	0 	0 	20K 	0K
+741 Palmyra
+05/02/2008 	23:05 PM 	Tornado 	F1 	0 	3 	20K 	0K
+742 Cumberland Hgts
+05/02/2008 	23:10 PM 	Tornado 	F1 	0 	0 	100K 	0K
+743 St Joseph
+05/08/2008 	11:35 AM 	Tornado 	F1 	0 	0 	50K 	0K
+
+
+*Texas* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+744 Arp
+02/05/2008 	16:50 PM 	Tornado 	F1 	0 	0 	30K 	0K
+745 Yellowpine
+02/16/2008 	21:40 PM 	Tornado 	F1 	0 	0 	50K 	0K
+746 Primrose
+03/03/2008 	06:36 AM 	Tornado 	F1 	0 	0 	50K 	0K
+747 New Boston
+03/03/2008 	08:13 AM 	Tornado 	F1 	0 	0 	750K 	0K
+748 Gardendale
+03/06/2008 	14:58 PM 	Tornado 	F1 	0 	0 	20K 	0K
+749 New London
+03/18/2008 	19:36 PM 	Tornado 	F1 	0 	0 	500K 	0K
+750 Harrold
+04/07/2008 	16:06 PM 	Tornado 	F1 	0 	1 	30K 	0K
+751 Haynesville
+04/07/2008 	16:09 PM 	Tornado 	F1 	0 	0 	5K 	0K
+752 Breckenridge Arpt
+04/09/2008 	16:21 PM 	Tornado 	F1 	0 	6 	1.0M 	0K
+753 San Angelo Res
+04/09/2008 	23:14 PM 	Tornado 	F1 	0 	0 	6.0M 	0K
+754 Tankersly Arpt
+04/09/2008 	23:01 PM 	Tornado 	F1 	0 	0 	150K 	0K
+755 Red Spgs
+04/10/2008 	07:12 AM 	Tornado 	F2 	0 	1 	1.0M 	0K
+756 Bangs
+04/10/2008 	00:35 AM 	Tornado 	F1 	0 	0 	150K 	0K
+757 Glen Rose
+04/10/2008 	02:03 AM 	Tornado 	F1 	0 	0 	200K 	0K
+758 Birds
+04/23/2008 	20:35 PM 	Tornado 	F2 	0 	0 	1.0M 	0K
+759 Snyder Winston Arpt
+04/23/2008 	13:50 PM 	Tornado 	F1 	0 	0 	20K 	0K
+760 Canton
+05/02/2008 	07:30 AM 	Tornado 	F1 	0 	8 	300K 	0K
+761 Henderson
+05/02/2008 	10:21 AM 	Tornado 	F1 	0 	0 	50K 	0K
+762 Fairplay
+05/02/2008 	10:55 AM 	Tornado 	F1 	0 	0 	400K 	0K
+763 Petteway
+05/07/2008 	19:15 PM 	Tornado 	F1 	0 	0 	0K 	0K
+764 Pleasant Grove
+05/14/2008 	08:30 AM 	Tornado 	F1 	0 	0 	200K 	0K
+765 Winnsboro
+05/14/2008 	23:50 PM 	Tornado 	F1 	0 	0 	10K 	0K
+
+
+*Virginia* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+766 Big Stone Gap
+03/04/2008 	16:55 PM 	Tornado 	F1 	0 	2 	0K 	0K
+767 Gaskins
+04/28/2008 	14:50 PM 	Tornado 	F1 	0 	0 	15K 	0K
+768 Claremont
+04/28/2008 	15:18 PM 	Tornado 	F1 	0 	0 	74K 	0K
+769 Maynards Xrds
+04/28/2008 	15:40 PM 	Tornado 	F1 	0 	0 	184K 	0K
+770 Mobjack
+04/28/2008 	15:45 PM 	Tornado 	F1 	0 	0 	50K 	0K
+771 Purdy
+04/28/2008 	13:53 PM 	Tornado 	F1 	0 	0 	5K 	0K
+772 Lawrenceville
+04/28/2008 	13:48 PM 	Tornado 	F1 	0 	0 	700K 	0K
+773 Virgilina
+04/28/2008 	12:10 PM 	Tornado 	F1 	0 	0 	500K 	0K
+774 Lummis
+04/28/2008 	15:05 PM 	Tornado 	F3 	0 	200 	30.0M 	0K
+775 Portsmouth
+04/28/2008 	15:30 PM 	Tornado 	F1 	0 	0 	60K 	0K
+776 Hampton Rds
+04/28/2008 	15:35 PM 	Tornado 	F1 	0 	0 	100K 	0K
+777 Colonial Hgts
+04/28/2008 	14:40 PM 	Tornado 	F1 	0 	21 	2.0M 	0K
+778 Jefferson Park
+04/28/2008 	14:43 PM 	Tornado 	F1 	0 	0 	15K 	0K
+779 Figsboro
+05/08/2008 	19:00 PM 	Tornado 	F1 	0 	0 	157K 	0K
+780 Sydnorsville
+05/08/2008 	19:01 PM 	Tornado 	F1 	0 	0 	9K 	0K
+781 Pullens
+05/08/2008 	20:00 PM 	Tornado 	F1 	0 	0 	116K 	0K
+782 Berea
+05/08/2008 	21:53 PM 	Tornado 	F2 	0 	0 	10.0M 	0K
+783 Hixburg
+05/08/2008 	22:20 PM 	Tornado 	F1 	0 	0 	25K 	0K
+784 Millwood
+06/04/2008 	12:25 PM 	Tornado 	F1 	0 	0 	20K 	0K
+785 Glendia
+06/04/2008 	18:35 PM 	Tornado 	F1 	0 	0 	20K 	0K
+786 Storch
+06/04/2008 	18:32 PM 	Tornado 	F1 	0 	0 	25K 	0K
+787 Sumerduck
+06/04/2008 	18:27 PM 	Tornado 	F1 	0 	0 	25K 	0K
+788 Petersburg
+07/09/2008 	18:18 PM 	Tornado 	F1 	0 	0 	500K 	0K
+
+
+*Vermont* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+789 North Cambridge
+07/18/2008 	14:28 PM 	Tornado 	F1 	0 	0 	100K 	0K
+
+
+*Washington* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+790 Hazel Dell
+01/10/2008 	12:15 PM 	Tornado 	F1 	0 	0 	525K 	0K
+
+
+*Wisconsin* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+791 Powers Lake
+01/07/2008 	16:04 PM 	Tornado 	F3 	0 	15 	13.7M 	0K
+792 Somers
+01/07/2008 	16:39 PM 	Tornado 	F1 	0 	0 	7.9M 	0K
+793 Pell Lake
+01/07/2008 	16:02 PM 	Tornado 	F1 	0 	0 	100K 	0K
+794 Dekorra
+04/25/2008 	16:18 PM 	Tornado 	F1 	0 	0 	600K 	0K
+795 Briggsville
+06/07/2008 	12:59 PM 	Tornado 	F1 	0 	0 	300K 	50K
+796 Pardeeville
+06/07/2008 	13:32 PM 	Tornado 	F2 	0 	6 	2.5M 	500K
+797 South Randolph
+06/07/2008 	14:09 PM 	Tornado 	F1 	0 	0 	200K 	100K
+798 Barre Mills
+06/07/2008 	16:45 PM 	Tornado 	F1 	0 	0 	93K 	10K
+799 Stoughton
+06/07/2008 	15:40 PM 	Tornado 	F1 	0 	0 	429K 	0K
+800 Jordan
+06/12/2008 	16:01 PM 	Tornado 	F1 	0 	0 	0K 	0K
+801 Postville
+06/12/2008 	16:15 PM 	Tornado 	F1 	0 	0 	0K 	0K
+802 Belleville
+06/12/2008 	16:27 PM 	Tornado 	F1 	0 	0 	0K 	0K
+803 Manchester
+07/07/2008 	18:04 PM 	Tornado 	F1 	0 	0 	30K 	10K
+804 Dalton
+07/10/2008 	16:33 PM 	Tornado 	F1 	0 	0 	150K 	0K
+805 Waupun Arpt
+07/10/2008 	17:00 PM 	Tornado 	F1 	0 	0 	20K 	0K
+806 (sbm)sheboygan Co Ar
+07/16/2008 	14:37 PM 	Tornado 	F1 	0 	0 	350K 	1K
+807 Menasha
+07/19/2008 	21:44 PM 	Tornado 	F1 	0 	0 	75K 	0K
+
+
+*Wyoming* Location or County	Date	Time	Type	Mag	Dth	Inj	PrD	CrD
+808 Perkins
+05/22/2008 	12:10 PM 	Tornado 	F2 	0 	1 	300K 	0K
+809 Cheyenne
+05/22/2008 	19:28 PM 	Tornado 	F1 	0 	0 	20K 	0K
+810 Cheyenne
+05/23/2008 	14:13 PM 	Tornado 	F1 	0 	0 	0K 	0K
+811 La Grange
+05/23/2008 	16:26 PM 	Tornado 	F1 	0 	0 	10K 	0K
+812 Four Corners
+06/10/2008 	17:50 PM 	Tornado 	F1 	0 	0 	0K 	0K
+TOTALS: 	128 	1660 	1.614B 	15.697M
+
+
+      <#TOP> Top of Page
+
+------------------------------------------------------------------------
+
