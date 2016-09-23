@@ -1,4 +1,4 @@
-# IDL Examples
+# IDL Original Code
 
 This directory will contain original code (unless otherwise specified) writtin in IDL.
 
