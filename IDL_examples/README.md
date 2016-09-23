@@ -2,7 +2,7 @@
 
 This directory will contain original code (unless otherwise specified) written in IDL.
 
-Files will be added as code is reviewed and confirmed to operate as intended.
+Files will be added as existing code is reviewed and confirmed to operate as intended.
 
 Code Upload Priorities:
 
