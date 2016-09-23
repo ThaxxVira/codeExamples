@@ -1,6 +1,6 @@
 # IDL Examples
 
-This directory will contain examples of code writtin in IDL.
+This directory will contain original code (unless otherwise specified) writtin in IDL.
 
 Files will be added as code is reviewed and confirmed to operate as intended.
 
