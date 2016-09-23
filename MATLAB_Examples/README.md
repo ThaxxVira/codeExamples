@@ -1,8 +1,8 @@
-# MATLAB Original Code
+# MATLAB - Original Code
 
 This directory contains original code (unless otherwise specified) writtin in MATLAB.
 
-Files will be added as code is reviewed and confirmed to operate as intended.
+Files will be added as existing code is reviewed and confirmed to operate as intended.
 
 Code Upload Priorities, by language:
 
