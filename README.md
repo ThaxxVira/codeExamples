@@ -1,6 +1,6 @@
 # Code for Employer Review
 
-The code within this repository are examples for employer review.  Oridinal code is added as reviewed.
+The code within this repository are examples for employer review.  Original code is added as reviewed.
 
 
 Motto:  "I may not yet know the answer, but I will find an answer"
