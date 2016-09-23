@@ -1,4 +1,4 @@
-# Codecademy Examples
+# Codecademy Completed Tasks
 
 This directory will contain original code (unless otherwise specified) written in various languages utilizing the instruction from Codecademy (www.codecademy.com).
 
