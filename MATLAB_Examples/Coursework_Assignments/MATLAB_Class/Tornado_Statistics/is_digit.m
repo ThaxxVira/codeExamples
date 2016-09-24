@@ -15,10 +15,10 @@
 %23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 
 function [ isd ] = is_digit( a_char )
-isd = 0;
-if (a_char >= '0');
-    if(a_char <= '9');
-        isd = 1;
-    end % if
-end %if
+    isd = 0;
+    if (a_char >= '0');
+        if(a_char <= '9');
+            isd = 1;
+        end % if
+    end %if
 end
