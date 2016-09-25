@@ -7,7 +7,7 @@
 %   This function determines if a character is a digit.
 %
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    15 Apr 2010  
 %  Revised: 18 Sep 2016       
 %-----------------------------------------------------------------------------------------
