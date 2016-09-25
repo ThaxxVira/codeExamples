@@ -7,7 +7,7 @@
 %   low pressure area (LPA) using a simple linear formula.  Units:  hPa.
 %   
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    22 Apr 2010  
 %  Revised: 7 Sep 2016       
 %-----------------------------------------------------------------------------------------
