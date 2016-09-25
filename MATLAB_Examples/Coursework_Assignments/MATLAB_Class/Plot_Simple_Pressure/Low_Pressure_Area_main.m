@@ -11,7 +11,7 @@
 %   more sophisticated techniques than the one employed in the Z_finite_diff function.
 %
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    22 Apr 2010  
 %  Revised: 7 Sep 2016       
 %-----------------------------------------------------------------------------------------
