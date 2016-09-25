@@ -8,7 +8,7 @@
 %   by using the barometric equation in the Z_finite_diff function.
 %   
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    22 Apr 2010  
 %  Revised: 13 Sep 2016       
 %-----------------------------------------------------------------------------------------
