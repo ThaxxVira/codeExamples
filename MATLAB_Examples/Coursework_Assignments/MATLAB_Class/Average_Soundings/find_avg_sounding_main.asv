@@ -1,0 +1,21 @@
+%Matthew Little 
+%This program averages the data from three soundings and gives plots of the
+%averaged data.
+
+sndg09 = read_a_sounding('koak_09_03_10_12z.htm');
+sndg10 = read_a_sounding('koak_10_03_10_12z.htm');
+sndg11 = read_a_sounding('koak_11_03_10_12z.htm');
+
+alts09 = sndg09(:,2)';
+alts10 = sndg10(:,2)';
+alts11 = sndg11(:,2)';
+temps09 = sndg09(:,3)';
+temps10 = sndg10(:,3)';
+temps11 = sndg11(:,3)';
+std_alts = 10:10:25000;
+
+t_s09 = t_at_alts(std_alts,alts09,temps09);
+t_s10 = t_at_alts(std_alts,alts10,temps10);
+t_s11 = t_at_alts(std_alts,alts11,temps11);
+
+avg_ts = (t_s09 + t_s10 + t_s11)/3

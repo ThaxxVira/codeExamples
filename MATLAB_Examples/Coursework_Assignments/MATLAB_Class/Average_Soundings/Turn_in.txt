@@ -1,0 +1,79 @@
+%Matthew Little 
+%This program averages the data from three soundings and gives plots of the
+%averaged data.
+
+sndg09 = read_a_sounding('koak_09_03_10_12z.htm');
+sndg10 = read_a_sounding('koak_10_03_10_12z.htm');
+sndg11 = read_a_sounding('koak_11_03_10_12z.htm');
+
+alts09 = sndg09(:,2)';
+alts10 = sndg10(:,2)';
+alts11 = sndg11(:,2)';
+temps09 = sndg09(:,3)';
+temps10 = sndg10(:,3)';
+temps11 = sndg11(:,3)';
+std_alts = 10:10:25000;
+
+t_s09 = t_at_alts(std_alts,alts09,temps09);
+t_s10 = t_at_alts(std_alts,alts10,temps10);
+t_s11 = t_at_alts(std_alts,alts11,temps11);
+
+avg_ts = (t_s09 + t_s10 + t_s11)/3
+
+
+
+
+
+
+
+
+
+%Matthew Little lab 7(2-25-10)
+%READ_A_SOUNDING this function will read a sounding, 
+%check for errors, and plot the data
+function [ a_sounding ] = read_a_sounding(sounding_fname)
+good_cols = 0;
+good_lines = 0;
+bad_lines = 0;
+fin=fopen(sounding_fname,'r');
+    for which_line = 1:99999
+        a_line = fgetl(fin); 
+        [A_col n] = sscanf(a_line,'%f %f %f %f %f %f %f %f %f %f %f', [11 1]);
+       
+        if (n == 11)
+            good_lines = good_lines + 1;
+            a_sounding(:, good_lines) = A_col;
+        else
+            bad_lines = bad_lines + 1;
+        end; %if 
+        
+        if  (bad_lines >= 14) 
+            break; 
+        end; %if
+      
+    end; %for
+    a_sounding = a_sounding';
+    altitude = a_sounding(:,2);
+    temperature = a_sounding(:,3);
+    %plot(temperature,altitude)
+    %hold on;
+    %grid on;
+end
+
+
+
+
+
+
+
+
+%T_AT_ALTS calls y_at_x to make the program work
+function [ t_s ] = t_at_alts(std_alts,alts,temps)
+    for i=1:length(std_alts)
+        t_s(i) = y_at_x(alts,temps,std_alts(i))
+    end %for
+end
+
+
+
+
