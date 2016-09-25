@@ -10,15 +10,15 @@
 %   (c) The 1976 US Standard Atmosphere
 %   (d) Radiosonde data (hardcoded)
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    11 Apr 2011     
 %  Revised: 7 Sep 2016 
 %-----------------------------------------------------------------------------------------
 %        1         2         3         4         5         6         7         8         9
 %23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 % Reset any leftover graphics and variables
-clear
-clf('reset');
+  clear
+  clf('reset');
 % Initialize values for part a and b
   z = 0:1:30;
   g = 9.81;
