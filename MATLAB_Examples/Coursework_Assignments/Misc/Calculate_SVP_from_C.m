@@ -8,15 +8,15 @@
 %   compute saturation vapor pressure (SVP) as a function of 
 %   temperature for T = -20C to 45C.
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    21 Feb 2011     
 %  Revised: 7 Sep 2016 
 %-----------------------------------------------------------------------------------------
 %        1         2         3         4         5         6         7         8         9
 %23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 % Reset any leftover graphics and variables
-clf('reset');
-clear;
+  clf('reset');
+  clear;
 % Initializing Temperature variable
   t = [-20:1:45];
   % Converting C to Kelvin
