@@ -9,7 +9,7 @@
 %   in units:  km.
 %   It passes these calculated parameters to the function:  p_at_d.
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    22 Apr 2010  
 %  Revised: 7 Sep 2016       
 %-----------------------------------------------------------------------------------------
