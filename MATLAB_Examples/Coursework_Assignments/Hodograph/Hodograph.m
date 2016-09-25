@@ -8,15 +8,15 @@
 %   Read in wind data from Lamont, OK on 26 may 2008 at 0800Z.
 %   The figure generated is best viewed full screen.
 %-----------------------------------------------------------------------------------------
-%  Author:  Matthew Little
+%  Author:  Matthew B. Little
 %  Date:    11 Apr 2011
 %  Revised: 7 Sep 2016       
 %-----------------------------------------------------------------------------------------
 %        1         2         3         4         5         6         7         8         9
 %23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
 % Reset any leftover graphics and variables
-clf('reset');
-clear;
+  clf('reset');
+  clear;
 % Read in Hodograph data
 data = dlmread('Hodo_data.txt');
 % Define variables from data
