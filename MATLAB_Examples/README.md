@@ -4,6 +4,8 @@ This directory contains original code (unless otherwise specified) writtin in MA
 
 Files will be added as existing code is reviewed and confirmed to operate as intended.
 
+*Please note that this MATLAB code was recently reviewed and edited using GNU Octave.  Therefore, although the laguages are very similar, code may need to be aadjusted in a MATLAB environment for full functionality.*
+
 Code Upload Priorities, by language:
 
 1.  MATLAB
